@@ -6,6 +6,8 @@ import Footer from './components/Footer';
 import Report from './components/Report';
 import Admin from './components/Admin';
 import ProjectInfo from './components/ProjectInfo';
+import ProjectShowcase from './components/ProjectShowcase';
+import ProjectDetail from './components/ProjectDetail';
 
 const App = () => {
     const mapComponentRef = useRef();
@@ -15,6 +17,8 @@ const App = () => {
             <div>
                 <Header onLogoClick={() => mapComponentRef.current?.resetMapView()} />
                 <ProjectInfo />
+                <ProjectShowcase />
+                <ProjectDetail />
                 <main>
                     <Routes>
                         <Route path="/" element={
@@ -22,7 +26,6 @@ const App = () => {
                                 <div className="w-full h-[600px]">
                                     <MapComponent ref={mapComponentRef} />
                                 </div>
-                                
                             </div>
                         } />
                         <Route path="/report" element={<Report />} />
