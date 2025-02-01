@@ -14,19 +14,28 @@ const createCustomIcon = () => {
     };
 };
 
-// Function to fetch data from Spring Boot backend
+// Function to fetch data from local CSV file
 const fetchLocations = async () => {
     try {
-        const response = await fetch('https://35.212.165.13:8080/vacantbuildings/addresses');//gcp ip
-        const addresses = await response.json();
-        // Append location details to each address
-        const formattedAddresses = addresses.map(address => 
-            `${address}, Winnipeg, Manitoba, Canada`
-        );
-        console.log('Fetched addresses:', formattedAddresses);
-        return formattedAddresses;
+        // Fetch the local CSV file
+        const response = await fetch('/data.csv');
+        const csvText = await response.text();
+        
+        // Parse CSV data (assuming it's comma-separated)
+        const addresses = csvText
+            .split('\n')                    // Split into lines
+            .slice(1)                       // Skip header row
+            .filter(line => line.trim())    // Remove empty lines
+            .map(line => {
+                // Get the address column from CSV
+                const columns = line.split(',');
+                return `${columns[0]}, Winnipeg, Manitoba, Canada`; // Adjust index based on your CSV structure
+            });
+
+        console.log('Fetched addresses from CSV:', addresses);
+        return addresses;
     } catch (error) {
-        console.error('Error fetching addresses:', error);
+        console.error('Error fetching CSV:', error);
         return [];
     }
 };

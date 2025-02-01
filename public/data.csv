@@ -1,0 +1,1123 @@
+Address,Order Number,Order Type,Order Issued Date
+4 Rover Avenue,10-134927 NO,Schedule A Order,06/15/2010 12:00:00 AM
+74 Higgins Avenue,11-114064 NO,Schedule A Order,03/14/2011 12:00:00 AM
+1272 Dominion Street,11-116399 NO,Schedule A Order,03/24/2011 12:00:00 AM
+443 McGregor Street,23-231342 NO,Schedule A Order,10/23/2023 12:00:00 AM
+443 McGregor Street,23-231410 NO,Schedule B Order,10/23/2023 12:00:00 AM
+685 Beverley Street,23-232559 NO,Schedule A Order,10/25/2023 12:00:00 AM
+686 Alexander Avenue,23-233082 NO,Schedule A Order,10/26/2023 12:00:00 AM
+686 Alexander Avenue,23-233083 NO,Schedule A Order,10/26/2023 12:00:00 AM
+363 Redwood Avenue,23-233560 NO,Schedule A Order,10/27/2023 12:00:00 AM
+363 Redwood Avenue,23-233527 NO,Schedule A Order,10/27/2023 12:00:00 AM
+363 Redwood Avenue,23-233528 NO,Schedule A Order,10/27/2023 12:00:00 AM
+163 Hartford Avenue,23-234074 NO,Schedule A Order,10/30/2023 12:00:00 AM
+163 Hartford Avenue,23-234075 NO,Schedule A Order,10/30/2023 12:00:00 AM
+685 Beverley Street,23-235132 NO,Schedule A Order,11/01/2023 12:00:00 AM
+604 Union Avenue E,23-235387 NO,Schedule A Order,11/01/2023 12:00:00 AM
+108 Rosseau Avenue W,23-235734 NO,Schedule A Order,11/02/2023 12:00:00 AM
+108 Rosseau Avenue W,23-235735 NO,Schedule A Order,11/02/2023 12:00:00 AM
+506 Selkirk Avenue,23-235798 NO,Schedule A Order,11/02/2023 12:00:00 AM
+260 Beacon Street,23-236462 NO,Schedule A Order,11/03/2023 12:00:00 AM
+260 Beacon Street,23-236463 NO,Schedule A Order,11/03/2023 12:00:00 AM
+27 Paulley Drive,23-237567 NO,Schedule A Order,11/07/2023 12:00:00 AM
+629 Nairn Avenue,23-238453 NO,Schedule B Order,11/08/2023 12:00:00 AM
+539 Maryland Street,23-238968 NO,Schedule A Order,11/09/2023 12:00:00 AM
+260 Beacon Street,23-238973 NO,Schedule A Order,11/09/2023 12:00:00 AM
+287 Redwood Avenue,23-239124 NO,Schedule A Order,11/09/2023 12:00:00 AM
+287 Redwood Avenue,23-239218 NO,Schedule A Order,11/09/2023 12:00:00 AM
+106 Rosseau Avenue W,23-240816 NO,Schedule A Order,11/14/2023 12:00:00 AM
+97 Haig Avenue,23-241265 NO,Schedule A Order,11/15/2023 12:00:00 AM
+132 Syndicate Street,23-241280 NO,Schedule A Order,11/15/2023 12:00:00 AM
+873 Aberdeen Avenue,23-241377 NO,Schedule A Order,11/15/2023 12:00:00 AM
+154 Sherbrook Street,23-241971 NO,Schedule A Order,11/16/2023 12:00:00 AM
+43 Bryn Mawr Road,23-242333 NO,Schedule A Order,11/17/2023 12:00:00 AM
+1104 Lansdowne Avenue,23-242378 NO,Schedule A Order,11/17/2023 12:00:00 AM
+281 Lipton Street,23-242438 NO,Schedule A Order,11/17/2023 12:00:00 AM
+221 Rupert Avenue,23-242467 NO,Schedule A Order,11/17/2023 12:00:00 AM
+641 Selkirk Avenue,23-242508 NO,Schedule A Order,11/17/2023 12:00:00 AM
+1 Point Douglas Avenue,23-244071 NO,Schedule B Order,11/22/2023 12:00:00 AM
+161 Stephens Street,23-244287 NO,Schedule A Order,11/22/2023 12:00:00 AM
+278 Selkirk Avenue,23-244315 NO,Schedule A Order,11/22/2023 12:00:00 AM
+278 Selkirk Avenue,23-244316 NO,Schedule A Order,11/22/2023 12:00:00 AM
+106 Rosseau Avenue W,23-244892 NO,Schedule A Order,11/23/2023 12:00:00 AM
+430 Redwood Avenue,23-245357 NO,Schedule A Order,11/24/2023 12:00:00 AM
+663 Agnes Street,23-245390 NO,Schedule A Order,11/24/2023 12:00:00 AM
+275 Meadowood Drive,23-246228 NO,Schedule A Order,11/27/2023 12:00:00 AM
+210 Masson Street,23-246352 NO,Schedule A Order,11/27/2023 12:00:00 AM
+693 Victor Street,23-246849 NO,Schedule A Order,11/28/2023 12:00:00 AM
+520 William Avenue,23-246884 NO,Schedule A Order,11/28/2023 12:00:00 AM
+231 Centennial Street,23-246819 NO,Schedule A Order,11/28/2023 12:00:00 AM
+464 Bannerman Avenue,23-246903 NO,Schedule A Order,11/28/2023 12:00:00 AM
+511 Whittier Avenue E,23-247073 NO,Schedule A Order,11/29/2023 12:00:00 AM
+961 Merriam Boulevard,23-247384 NO,Schedule A Order,11/29/2023 12:00:00 AM
+961 Merriam Boulevard,23-247442 NO,Schedule B Order,11/29/2023 12:00:00 AM
+506 Simcoe Street,23-247896 NO,Schedule A Order,11/30/2023 12:00:00 AM
+58 Handyside Avenue,23-247975 NO,Schedule A Order,11/30/2023 12:00:00 AM
+89 Essex Avenue,23-248037 NO,Schedule B Order,11/30/2023 12:00:00 AM
+395 Tweed Avenue,23-248449 NO,Schedule A Order,12/01/2023 12:00:00 AM
+421 Alexander Avenue,23-248459 NO,Schedule A Order,12/01/2023 12:00:00 AM
+912 William Avenue,23-248751 NO,Schedule A Order,12/04/2023 12:00:00 AM
+210 Trent Avenue,23-248903 NO,Schedule A Order,12/04/2023 12:00:00 AM
+49 Grove Street,23-248963 NO,Schedule A Order,12/04/2023 12:00:00 AM
+256 Selkirk Avenue,23-248973 NO,Schedule B Order,12/04/2023 12:00:00 AM
+39 Kingswood Avenue,23-249333 NO,Schedule A Order,12/05/2023 12:00:00 AM
+39 Kingswood Avenue,23-249351 NO,Schedule A Order,12/05/2023 12:00:00 AM
+462 Ottawa Avenue,23-249697 NO,Schedule A Order,12/05/2023 12:00:00 AM
+1385 Main Street,23-249726 NO,Schedule A Order,12/05/2023 12:00:00 AM
+1345 Storie Road,23-250227 NO,Schedule A Order,12/06/2023 12:00:00 AM
+1506 Ross Avenue W,23-250869 NO,Schedule B Order,12/07/2023 12:00:00 AM
+98 Frances Street,23-250958 NO,Schedule A Order,12/07/2023 12:00:00 AM
+98 Frances Street,23-251398 NO,Schedule B Order,12/08/2023 12:00:00 AM
+142 Kilbride Avenue,23-251470 NO,Schedule A Order,12/08/2023 12:00:00 AM
+1299 Strathcona Street,23-251867 NO,Schedule B Order,12/11/2023 12:00:00 AM
+1299 Strathcona Street,23-251868 NO,Schedule A Order,12/11/2023 12:00:00 AM
+1299 Strathcona Street,23-251869 NO,Schedule A Order,12/11/2023 12:00:00 AM
+94 Thornhill Bay,23-252092 NO,Schedule A Order,12/11/2023 12:00:00 AM
+402 Pritchard Avenue,23-252445 NO,Schedule B Order,12/12/2023 12:00:00 AM
+449 Dufferin Avenue,23-253634 NO,Schedule A Order,12/14/2023 12:00:00 AM
+449 Dufferin Avenue,23-253635 NO,Schedule A Order,12/14/2023 12:00:00 AM
+144 Arlington Street,23-253676 NO,Schedule A Order,12/14/2023 12:00:00 AM
+227 King Edward Street,23-254168 NO,Schedule A Order,12/15/2023 12:00:00 AM
+707 Home Street,23-254790 NO,Schedule A Order,12/18/2023 12:00:00 AM
+95 St Vital Road,23-255410 NO,Schedule A Order,12/19/2023 12:00:00 AM
+190 Henderson Highway,23-255377 NO,Schedule A Order,12/19/2023 12:00:00 AM
+174 Roberta Avenue,23-255477 NO,Schedule A Order,12/19/2023 12:00:00 AM
+174 Roberta Avenue,23-255478 NO,Schedule A Order,12/19/2023 12:00:00 AM
+498 Atlantic Avenue,23-255765 NO,Schedule A Order,12/20/2023 12:00:00 AM
+138 Langside Street,23-255900 NO,Schedule A Order,12/20/2023 12:00:00 AM
+35 St George Road,23-256424 NO,Schedule A Order,12/21/2023 12:00:00 AM
+35 St George Road,23-256425 NO,Schedule A Order,12/21/2023 12:00:00 AM
+199 Marion Street,23-256395 NO,Schedule A Order,12/21/2023 12:00:00 AM
+199 Marion Street,23-256396 NO,Schedule A Order,12/21/2023 12:00:00 AM
+809 William Avenue,24-101940 NO,Schedule A Order,01/03/2024 12:00:00 AM
+821 William Avenue,24-101968 NO,Schedule A Order,01/03/2024 12:00:00 AM
+363 Mountain Avenue,24-102134 NO,Schedule A Order,01/03/2024 12:00:00 AM
+402 Pritchard Avenue,24-102626 NO,Schedule A Order,01/04/2024 12:00:00 AM
+162 Wynford Drive,24-103612 NO,Schedule A Order,01/08/2024 12:00:00 AM
+114 McFarlane Street N,24-103717 NO,Schedule A Order,01/08/2024 12:00:00 AM
+262 Austin Street N,24-104172 NO,Schedule A Order,01/09/2024 12:00:00 AM
+1409 Winnipeg Avenue W,24-105132 NO,Schedule A Order,01/11/2024 12:00:00 AM
+515 Simcoe Street,24-105584 NO,Schedule A Order,01/12/2024 12:00:00 AM
+453 Flora Avenue,24-105899 NO,Schedule B Order,01/15/2024 12:00:00 AM
+203 Cordova Street,24-107507 NO,Schedule A Order,01/18/2024 12:00:00 AM
+203 Cordova Street,24-107508 NO,Schedule A Order,01/18/2024 12:00:00 AM
+485 Furby Street,24-108621 NO,Schedule B Order,01/22/2024 12:00:00 AM
+485 Furby Street,24-108635 NO,Schedule B Order,01/22/2024 12:00:00 AM
+802 Magnus Avenue,24-108981 NO,Schedule A Order,01/23/2024 12:00:00 AM
+528 Beverley Street,24-109811 NO,Schedule B Order,01/25/2024 12:00:00 AM
+28 Bannerman Avenue,24-109893 NO,Schedule A Order,01/25/2024 12:00:00 AM
+28 Bannerman Avenue,24-109894 NO,Schedule A Order,01/25/2024 12:00:00 AM
+311 Grassie Boulevard,24-109867 NO,Schedule A Order,01/25/2024 12:00:00 AM
+480 Young Street,24-110158 NO,Schedule B Order,01/25/2024 12:00:00 AM
+480 Young Street,24-110159 NO,Schedule A Order,01/25/2024 12:00:00 AM
+393 Luxton Avenue W,24-111660 NO,Schedule A Order,01/30/2024 12:00:00 AM
+229 Pritchard Avenue,24-111713 NO,Schedule A Order,01/30/2024 12:00:00 AM
+491 Jamison Avenue,24-112584 NO,Schedule A Order,02/01/2024 12:00:00 AM
+491 Jamison Avenue,24-112599 NO,Schedule B Order,02/01/2024 12:00:00 AM
+573 Flora Avenue,24-114064 NO,Schedule A Order,02/06/2024 12:00:00 AM
+627 Ellice Avenue,24-114986 NO,Schedule B Order,02/08/2024 12:00:00 AM
+1229 Magnus Avenue,24-115332 NO,Schedule B Order,02/08/2024 12:00:00 AM
+344 Maryland Street,24-115356 NO,Schedule A Order,02/08/2024 12:00:00 AM
+382 Alfred Avenue,24-115586 NO,Schedule B Order,02/09/2024 12:00:00 AM
+588 Langside Street,24-115702 NO,Schedule A Order,02/09/2024 12:00:00 AM
+234 Carpathia Road,24-116265 NO,Schedule A Order,02/12/2024 12:00:00 AM
+923 Magnus Avenue,24-116979 NO,Schedule B Order,02/13/2024 12:00:00 AM
+923 Magnus Avenue,24-116962 NO,Schedule A Order,02/13/2024 12:00:00 AM
+794 Logan Avenue,24-118911 NO,Schedule A Order,02/20/2024 12:00:00 AM
+794 Logan Avenue,24-118912 NO,Schedule A Order,02/20/2024 12:00:00 AM
+1042 Redwood Avenue,24-119070 NO,Schedule A Order,02/20/2024 12:00:00 AM
+484 Agnes Street,24-119290 NO,Schedule B Order,02/21/2024 12:00:00 AM
+5730 Roblin Boulevard,24-120215 NO,Schedule A Order,02/22/2024 12:00:00 AM
+174 Maryland Street,24-120489 NO,Schedule A Order,02/23/2024 12:00:00 AM
+378 Pritchard Avenue,24-120941 NO,Schedule B Order,02/26/2024 12:00:00 AM
+192 Johnson Avenue W,24-121216 NO,Schedule A Order,02/26/2024 12:00:00 AM
+752 Broadway,24-121570 NO,Schedule A Order,02/27/2024 12:00:00 AM
+752 Broadway,24-121571 NO,Schedule A Order,02/27/2024 12:00:00 AM
+192 Johnson Avenue W,24-122265 NO,Schedule A Order,02/28/2024 12:00:00 AM
+306 College Avenue,24-122636 NO,Schedule B Order,02/29/2024 12:00:00 AM
+306 College Avenue,24-122637 NO,Schedule A Order,02/29/2024 12:00:00 AM
+381 College Avenue,24-122677 NO,Schedule B Order,02/29/2024 12:00:00 AM
+399 Nairn Avenue,24-125693 NO,Schedule A Order,03/08/2024 12:00:00 AM
+138 Portage Avenue E,24-125754 NO,Schedule B Order,03/08/2024 12:00:00 AM
+138 Portage Avenue E,24-125730 NO,Schedule A Order,03/08/2024 12:00:00 AM
+836 Aberdeen Avenue,24-126356 NO,Schedule A Order,03/11/2024 12:00:00 AM
+774 Toronto Street,24-127300 NO,Schedule B Order,03/13/2024 12:00:00 AM
+1741 Ness Avenue,24-127390 NO,Schedule A Order,03/13/2024 12:00:00 AM
+740 Toronto Street,24-127729 NO,Schedule B Order,03/14/2024 12:00:00 AM
+479 College Avenue,24-129237 NO,Schedule A Order,03/18/2024 12:00:00 AM
+685 Stella Avenue,24-130054 NO,Schedule A Order,03/20/2024 12:00:00 AM
+737 Sargent Avenue,24-130188 NO,Schedule A Order,03/20/2024 12:00:00 AM
+130 Hallet Street,24-130214 NO,Schedule A Order,03/20/2024 12:00:00 AM
+233 Atlantic Avenue,24-130745 NO,Schedule A Order,03/21/2024 12:00:00 AM
+508 Beverley Street,24-131272 NO,Schedule A Order,03/22/2024 12:00:00 AM
+517 Langside Street,24-131282 NO,Schedule A Order,03/22/2024 12:00:00 AM
+2106 Gallagher Avenue,24-132562 NO,Schedule A Order,03/26/2024 12:00:00 AM
+355 Selkirk Avenue,24-136017 NO,Schedule A Order,04/02/2024 12:00:00 AM
+355 Selkirk Avenue,24-136018 NO,Schedule A Order,04/02/2024 12:00:00 AM
+786 Mountain Avenue,24-136047 NO,Schedule A Order,04/02/2024 12:00:00 AM
+786 Mountain Avenue,24-136048 NO,Schedule A Order,04/02/2024 12:00:00 AM
+271 Albany Street,24-136328 NO,Schedule A Order,04/02/2024 12:00:00 AM
+748 Banning Street,24-137325 NO,Schedule A Order,04/04/2024 12:00:00 AM
+402 Whitegates Crescent,24-137374 NO,Schedule A Order,04/04/2024 12:00:00 AM
+724 Elgin Avenue,24-139478 NO,Schedule B Order,04/09/2024 12:00:00 AM
+444 Magnus Avenue,24-139538 NO,Schedule B Order,04/09/2024 12:00:00 AM
+23 Trailside Crescent,24-139964 NO,Schedule A Order,04/10/2024 12:00:00 AM
+392 Victor Street,24-140617 NO,Schedule A Order,04/11/2024 12:00:00 AM
+116 Gilia Drive,24-140785 NO,Schedule A Order,04/11/2024 12:00:00 AM
+453 Flora Avenue,24-140830 NO,Schedule A Order,04/11/2024 12:00:00 AM
+453 Flora Avenue,24-140831 NO,Schedule A Order,04/11/2024 12:00:00 AM
+189 Burrows Avenue,24-142847 NO,Schedule A Order,04/16/2024 12:00:00 AM
+678 Agnes Street,24-143038 NO,Schedule A Order,04/16/2024 12:00:00 AM
+403 Jamison Avenue,24-143054 NO,Schedule A Order,04/16/2024 12:00:00 AM
+375 Pacific Avenue,24-144711 NO,Schedule A Order,04/19/2024 12:00:00 AM
+761 Selkirk Avenue,24-145498 NO,Schedule A Order,04/22/2024 12:00:00 AM
+423 Selkirk Avenue,24-146691 NO,Schedule A Order,04/24/2024 12:00:00 AM
+500 St John's Avenue,24-146793 NO,Schedule B Order,04/24/2024 12:00:00 AM
+365 Bowman Avenue,24-146822 NO,Schedule B Order,04/24/2024 12:00:00 AM
+365 Bowman Avenue,24-146811 NO,Schedule A Order,04/24/2024 12:00:00 AM
+564 Mountain Avenue,24-147336 NO,Schedule A Order,04/25/2024 12:00:00 AM
+174 Lipton Street,24-147917 NO,Schedule A Order,04/26/2024 12:00:00 AM
+371 Henderson Highway,24-148888 NO,Schedule A Order,04/29/2024 12:00:00 AM
+619 William Avenue,24-149770 NO,Schedule A Order,04/30/2024 12:00:00 AM
+619 William Avenue,24-149771 NO,Schedule A Order,04/30/2024 12:00:00 AM
+166 Sadler Avenue,24-149880 NO,Schedule A Order,04/30/2024 12:00:00 AM
+381 Arlington Street,24-149902 NO,Schedule A Order,04/30/2024 12:00:00 AM
+132 Fulham Avenue,24-150935 NO,Schedule A Order,05/02/2024 12:00:00 AM
+905 Nottingham Avenue,24-151110 NO,Schedule A Order,05/02/2024 12:00:00 AM
+109 Inkster Boulevard,24-151504 NO,Schedule A Order,05/03/2024 12:00:00 AM
+663 Sherbrook Street,24-152458 NO,Schedule A Order,05/06/2024 12:00:00 AM
+396 Maryland Street,24-152658 NO,Schedule A Order,05/06/2024 12:00:00 AM
+394 Burrows Avenue,24-153235 NO,Schedule B Order,05/07/2024 12:00:00 AM
+130 Hallet Street,24-153931 NO,Schedule A Order,05/08/2024 12:00:00 AM
+399 Boyd Avenue,11-146789 NO,Schedule A Order,07/07/2011 12:00:00 AM
+268 Yale Avenue,12-158932 NO,Schedule A Order,08/22/2012 12:00:00 AM
+741 Selkirk Avenue,12-163544 NO,Schedule A Order,09/12/2012 12:00:00 AM
+74 Higgins Avenue,13-107701 NO,Schedule A Order,02/13/2013 12:00:00 AM
+286 Simcoe Street,13-116002 NO,Schedule A Order,03/22/2013 12:00:00 AM
+268 Yale Avenue,13-157786 NO,Schedule A Order,08/29/2013 12:00:00 AM
+700 Victor Street,13-165584 NO,Schedule A Order,10/03/2013 12:00:00 AM
+396 Maryland Street,15-107554 NO,Schedule A Order,02/10/2015 12:00:00 AM
+242 Princess Street,15-108049 NO,Schedule A Order,02/12/2015 12:00:00 AM
+377 Carlton Street,15-111849 NO,Schedule A Order,02/17/2015 12:00:00 AM
+235 Notre Dame Avenue,15-125986 NO,Schedule A Order,05/07/2015 12:00:00 AM
+294 Toronto Street,15-127644 NO,Schedule A Order,05/14/2015 12:00:00 AM
+339 Mountain Avenue,15-133924 NO,Schedule A Order,06/10/2015 12:00:00 AM
+301 Arlington Street,15-141550 NO,Schedule A Order,07/10/2015 12:00:00 AM
+101 Paul Boulevard,15-155712 NO,Schedule A Order,09/08/2015 12:00:00 AM
+843 Pritchard Avenue,15-159250 NO,Schedule A Order,09/23/2015 12:00:00 AM
+843 Pritchard Avenue,15-159251 NO,Schedule A Order,09/23/2015 12:00:00 AM
+33 Princess Street,15-164565 NO,Schedule A Order,10/16/2015 12:00:00 AM
+838 Southwood Avenue,15-166448 NO,Schedule A Order,10/23/2015 12:00:00 AM
+522 Flora Avenue,15-171858 NO,Schedule A Order,11/24/2015 12:00:00 AM
+456 Salter Street,15-172506 NO,Schedule A Order,11/27/2015 12:00:00 AM
+600 Main Street,15-172639 NO,Schedule A Order,11/27/2015 12:00:00 AM
+137 Harrowby Avenue,16-107002 NO,Schedule A Order,02/04/2016 12:00:00 AM
+992 Beach Avenue,16-121005 NO,Schedule A Order,04/22/2016 12:00:00 AM
+824 Oak Street,16-122031 NO,Schedule A Order,04/27/2016 12:00:00 AM
+636 Arlington Street,16-123787 NO,Schedule A Order,05/05/2016 12:00:00 AM
+193 Andrews Street,16-132846 NO,Schedule A Order,06/06/2016 12:00:00 AM
+193 Andrews Street,16-132847 NO,Schedule A Order,06/06/2016 12:00:00 AM
+532 Sherburn Street,21-155300 NO,Schedule A Order,08/25/2016 12:00:00 AM
+532 Sherburn Street,16-155301 NO,Schedule A Order,08/25/2016 12:00:00 AM
+43 Rochester Avenue,16-164426 NO,Schedule A Order,10/04/2016 12:00:00 AM
+484 Sargent Avenue,16-164512 NO,Schedule A Order,10/05/2016 12:00:00 AM
+143 Hiddleston Crescent,16-165641 NO,Schedule A Order,10/11/2016 12:00:00 AM
+344 Maryland Street,16-170960 NO,Schedule A Order,11/04/2016 12:00:00 AM
+287 Bannerman Avenue,16-175051 NO,Schedule A Order,11/24/2016 12:00:00 AM
+1402 Pacific Avenue W,16-175328 NO,Schedule A Order,11/25/2016 12:00:00 AM
+1402 Pacific Avenue W,16-175329 NO,Schedule A Order,11/25/2016 12:00:00 AM
+339 Mountain Avenue,16-176302 NO,Schedule B Order,11/30/2016 12:00:00 AM
+2029 Selkirk Avenue,16-179093 NO,Schedule A Order,12/15/2016 12:00:00 AM
+2029 Selkirk Avenue,16-179094 NO,Schedule A Order,12/15/2016 12:00:00 AM
+874 Atlantic Avenue,17-101087 NO,Schedule A Order,01/03/2017 12:00:00 AM
+33 Princess Street,17-102832 NO,Schedule A Order,01/12/2017 12:00:00 AM
+266 Powers Street,17-103254 NO,Schedule A Order,01/16/2017 12:00:00 AM
+266 Powers Street,17-103255 NO,Schedule A Order,01/16/2017 12:00:00 AM
+305 Arlington Street,17-110101 NO,Schedule A Order,02/17/2017 12:00:00 AM
+616 Alverstone Street,17-117559 NO,Schedule A Order,03/23/2017 12:00:00 AM
+616 Alverstone Street,17-117560 NO,Schedule A Order,03/23/2017 12:00:00 AM
+616 Alverstone Street,17-117574 NO,Schedule A Order,03/23/2017 12:00:00 AM
+705 McMillan Avenue,17-118592 NO,Schedule A Order,03/28/2017 12:00:00 AM
+169 Worthington Avenue,17-120697 NO,Schedule A Order,04/05/2017 12:00:00 AM
+4 Rover Avenue,17-127105 NO,Schedule A Order,05/02/2017 12:00:00 AM
+624 Greenwood Place,17-129071 NO,Schedule A Order,05/09/2017 12:00:00 AM
+636 Arlington Street,17-135481 NO,Schedule A Order,06/02/2017 12:00:00 AM
+636 Arlington Street,17-135482 NO,Schedule A Order,06/02/2017 12:00:00 AM
+143 Hiddleston Crescent,17-140808 NO,Schedule A Order,06/21/2017 12:00:00 AM
+35 Norberry Drive,17-144494 NO,Schedule A Order,07/06/2017 12:00:00 AM
+35 Norberry Drive,17-144495 NO,Schedule A Order,07/06/2017 12:00:00 AM
+452 Aikins Street,17-148001 NO,Schedule A Order,07/19/2017 12:00:00 AM
+25 Heather Road,17-157277 NO,Schedule A Order,08/25/2017 12:00:00 AM
+25 Heather Road,17-157279 NO,Schedule A Order,08/25/2017 12:00:00 AM
+707 Home Street,17-162151 NO,Schedule A Order,09/15/2017 12:00:00 AM
+143 Hiddleston Crescent,17-172469 NO,Schedule A Order,11/01/2017 12:00:00 AM
+75 Egerton Road,17-175404 NO,Schedule A Order,11/16/2017 12:00:00 AM
+75 Egerton Road,17-175405 NO,Schedule A Order,11/16/2017 12:00:00 AM
+836 Aberdeen Avenue,17-175432 NO,Schedule A Order,11/16/2017 12:00:00 AM
+539 Toronto Street,17-175444 NO,Schedule A Order,11/16/2017 12:00:00 AM
+539 Toronto Street,17-175445 NO,Schedule A Order,11/16/2017 12:00:00 AM
+194 Douglas Park Road,17-177036 NO,Schedule A Order,11/24/2017 12:00:00 AM
+286 Simcoe Street,17-180754 NO,Schedule A Order,12/14/2017 12:00:00 AM
+384 Lipton Street,17-181453 NO,Schedule A Order,12/19/2017 12:00:00 AM
+138A Berrydale Avenue,18-101321 NO,Schedule A Order,01/02/2018 12:00:00 AM
+138A Berrydale Avenue,18-101322 NO,Schedule A Order,01/02/2018 12:00:00 AM
+229 Pritchard Avenue,18-101543 NO,Schedule A Order,01/03/2018 12:00:00 AM
+600 Main Street,18-103907 NO,Schedule A Order,01/16/2018 12:00:00 AM
+266 Powers Street,18-104617 NO,Schedule A Order,01/19/2018 12:00:00 AM
+344 Maryland Street,18-114077 NO,Schedule A Order,03/09/2018 12:00:00 AM
+276 Alfred Avenue,18-114386 NO,Schedule A Order,03/12/2018 12:00:00 AM
+522 Flora Avenue,18-115419 NO,Schedule A Order,03/16/2018 12:00:00 AM
+522 Flora Avenue,18-115420 NO,Schedule A Order,03/16/2018 12:00:00 AM
+522 Flora Avenue,18-115421 NO,Schedule A Order,03/16/2018 12:00:00 AM
+485 Victor Street,18-115505 NO,Schedule A Order,03/16/2018 12:00:00 AM
+33 Princess Street,18-116176 NO,Schedule A Order,03/20/2018 12:00:00 AM
+389 Magnus Avenue,18-116279 NO,Schedule A Order,03/21/2018 12:00:00 AM
+266 Powers Street,18-120129 NO,Schedule A Order,04/09/2018 12:00:00 AM
+1380 Ellice Avenue,18-124309 NO,Schedule A Order,04/24/2018 12:00:00 AM
+305 Lipton Street,18-136503 NO,Schedule A Order,06/05/2018 12:00:00 AM
+426 Stella Avenue,18-138275 NO,Schedule A Order,06/08/2018 12:00:00 AM
+426 Stella Avenue,18-138276 NO,Schedule A Order,06/08/2018 12:00:00 AM
+521 Atlantic Avenue,18-142001 NO,Schedule A Order,06/21/2018 12:00:00 AM
+494 Boyd Avenue,18-145179 NO,Schedule A Order,07/03/2018 12:00:00 AM
+494 Boyd Avenue,18-145180 NO,Schedule A Order,07/03/2018 12:00:00 AM
+636 Arlington Street,18-145507 NO,Schedule A Order,07/04/2018 12:00:00 AM
+620 Langside Street,18-147001 NO,Schedule A Order,07/09/2018 12:00:00 AM
+94 Cathedral Avenue,18-147142 NO,Schedule A Order,07/09/2018 12:00:00 AM
+94 Cathedral Avenue,18-147143 NO,Schedule A Order,07/09/2018 12:00:00 AM
+677 Flora Avenue,18-148281 NO,Schedule B Order,07/12/2018 12:00:00 AM
+257 Ottawa Avenue,18-151290 NO,Schedule A Order,07/23/2018 12:00:00 AM
+890 Selkirk Avenue,18-151462 NO,Schedule A Order,07/23/2018 12:00:00 AM
+890 Selkirk Avenue,18-151463 NO,Schedule A Order,07/23/2018 12:00:00 AM
+726 Mulvey Avenue,18-153860 NO,Schedule A Order,07/31/2018 12:00:00 AM
+726 Mulvey Avenue,18-153861 NO,Schedule A Order,07/31/2018 12:00:00 AM
+235 Notre Dame Avenue,18-158182 NO,Schedule A Order,08/14/2018 12:00:00 AM
+745 Parkdale Street,18-161542 NO,Schedule A Order,08/24/2018 12:00:00 AM
+478 Young Street,18-168889 NO,Schedule A Order,09/21/2018 12:00:00 AM
+478 Young Street,18-168890 NO,Schedule A Order,09/21/2018 12:00:00 AM
+707 Home Street,18-170344 NO,Schedule A Order,09/27/2018 12:00:00 AM
+43 Rochester Avenue,18-174281 NO,Schedule A Order,10/12/2018 12:00:00 AM
+98 Frances Street,18-174355 NO,Schedule A Order,10/12/2018 12:00:00 AM
+98 Frances Street,18-174357 NO,Schedule A Order,10/12/2018 12:00:00 AM
+429 Pacific Avenue,18-176459 NO,Schedule A Order,10/22/2018 12:00:00 AM
+429 Pacific Avenue,18-176461 NO,Schedule A Order,10/22/2018 12:00:00 AM
+138 Langside Street,18-179427 NO,Schedule A Order,11/02/2018 12:00:00 AM
+138 Langside Street,18-179441 NO,Schedule A Order,11/02/2018 12:00:00 AM
+596 Stella Avenue,18-180247 NO,Schedule A Order,11/07/2018 12:00:00 AM
+162 Wynford Drive,18-187008 NO,Schedule A Order,12/11/2018 12:00:00 AM
+345 Martin Avenue W,18-190071 NO,Schedule A Order,12/28/2018 12:00:00 AM
+345 Martin Avenue W,18-190072 NO,Schedule A Order,12/28/2018 12:00:00 AM
+435 Pritchard Avenue,19-104172 NO,Schedule A Order,01/14/2019 12:00:00 AM
+435 Pritchard Avenue,19-104173 NO,Schedule A Order,01/14/2019 12:00:00 AM
+436 St John's Avenue,19-105256 NO,Schedule A Order,01/18/2019 12:00:00 AM
+634 Anderson Avenue,19-105297 NO,Schedule A Order,01/18/2019 12:00:00 AM
+675 Manitoba Avenue,19-110461 NO,Schedule A Order,02/13/2019 12:00:00 AM
+858 Stella Avenue,19-118396 NO,Schedule A Order,03/21/2019 12:00:00 AM
+858 Stella Avenue,19-118398 NO,Schedule A Order,03/21/2019 12:00:00 AM
+886 Alverstone Street,19-123366 NO,Schedule A Order,04/08/2019 12:00:00 AM
+540 William Avenue,19-125013 NO,Schedule A Order,04/12/2019 12:00:00 AM
+540 William Avenue,19-125015 NO,Schedule A Order,04/12/2019 12:00:00 AM
+681 Pritchard Avenue,19-126850 NO,Schedule A Order,04/17/2019 12:00:00 AM
+655 Chrypko Drive,19-140432 NO,Schedule A Order,05/29/2019 12:00:00 AM
+570 Balmoral Street,19-140536 NO,Schedule A Order,05/29/2019 12:00:00 AM
+792 Burrows Avenue,19-156225 NO,Schedule A Order,07/04/2019 12:00:00 AM
+792 Burrows Avenue,19-156226 NO,Schedule A Order,07/04/2019 12:00:00 AM
+712 Selkirk Avenue,19-158947 NO,Schedule A Order,07/10/2019 12:00:00 AM
+341 Salter Street,19-160242 NO,Schedule A Order,07/12/2019 12:00:00 AM
+305 Lipton Street,19-162061 NO,Schedule A Order,07/17/2019 12:00:00 AM
+74 Higgins Avenue,19-170815 NO,Schedule A Order,08/06/2019 12:00:00 AM
+446 Melbourne Avenue,19-172647 NO,Schedule A Order,08/09/2019 12:00:00 AM
+446 Melbourne Avenue,19-172648 NO,Schedule A Order,08/09/2019 12:00:00 AM
+253 Chambers Street,19-191220 NO,Schedule A Order,09/24/2019 12:00:00 AM
+253 Chambers Street,19-191285 NO,Schedule A Order,09/24/2019 12:00:00 AM
+608 Leola Street,19-193258 NO,Schedule A Order,09/30/2019 12:00:00 AM
+325 Boyd Avenue,19-198944 NO,Schedule A Order,10/15/2019 12:00:00 AM
+193 Andrews Street,19-201035 NO,Schedule A Order,10/21/2019 12:00:00 AM
+675 Manitoba Avenue,19-204993 NO,Schedule A Order,10/31/2019 12:00:00 AM
+435 Pritchard Avenue,19-209950 NO,Schedule B Order,11/15/2019 12:00:00 AM
+521 Sydney Avenue,19-217644 NO,Schedule A Order,12/12/2019 12:00:00 AM
+603 Leola Street,19-218947 NO,Schedule A Order,12/18/2019 12:00:00 AM
+603 Leola Street,19-218948 NO,Schedule A Order,12/18/2019 12:00:00 AM
+836 Aberdeen Avenue,19-219871 NO,Schedule A Order,12/23/2019 12:00:00 AM
+256 Selkirk Avenue,19-220719 NO,Schedule A Order,12/30/2019 12:00:00 AM
+256 Selkirk Avenue,19-220720 NO,Schedule A Order,12/30/2019 12:00:00 AM
+330 Creek Bend Road,19-220845 NO,Schedule A Order,12/31/2019 12:00:00 AM
+330 Creek Bend Road,19-220846 NO,Schedule A Order,12/31/2019 12:00:00 AM
+143 Hiddleston Crescent,20-103386 NO,Schedule A Order,01/09/2020 12:00:00 AM
+282 Powers Street,20-104426 NO,Schedule A Order,01/14/2020 12:00:00 AM
+435 Pritchard Avenue,20-104961 NO,Schedule A Order,01/15/2020 12:00:00 AM
+194 Douglas Park Road,20-105739 NO,Schedule A Order,01/17/2020 12:00:00 AM
+429 Pacific Avenue,20-106608 NO,Schedule B Order,01/22/2020 12:00:00 AM
+381 Arlington Street,20-108410 NO,Schedule A Order,01/28/2020 12:00:00 AM
+98 Frances Street,20-112809 NO,Schedule B Order,02/12/2020 12:00:00 AM
+549 Bowman Avenue,20-112904 NO,Schedule A Order,02/13/2020 12:00:00 AM
+549 Bowman Avenue,20-112905 NO,Schedule A Order,02/13/2020 12:00:00 AM
+500 St John's Avenue,20-114294 NO,Schedule A Order,02/19/2020 12:00:00 AM
+500 St John's Avenue,20-114295 NO,Schedule A Order,02/19/2020 12:00:00 AM
+810 Sherburn Street,20-114386 NO,Schedule A Order,02/19/2020 12:00:00 AM
+2029 Selkirk Avenue,20-114809 NO,Schedule A Order,02/20/2020 12:00:00 AM
+672 Renfrew Street,20-116058 NO,Schedule A Order,02/25/2020 12:00:00 AM
+396 Maryland Street,20-118756 NO,Schedule A Order,03/05/2020 12:00:00 AM
+1402 Pacific Avenue W,20-119012 NO,Schedule B Order,03/05/2020 12:00:00 AM
+700 Stella Avenue,20-123382 NO,Schedule A Order,03/23/2020 12:00:00 AM
+700 Stella Avenue,20-123383 NO,Schedule A Order,03/23/2020 12:00:00 AM
+712 Selkirk Avenue,20-123775 NO,Schedule B Order,03/24/2020 12:00:00 AM
+360 Selkirk Avenue,20-124523 NO,Schedule A Order,03/27/2020 12:00:00 AM
+360 Selkirk Avenue,20-124524 NO,Schedule B Order,03/27/2020 12:00:00 AM
+2183 Gallagher Avenue,20-124655 NO,Schedule A Order,03/27/2020 12:00:00 AM
+2183 Gallagher Avenue,20-124656 NO,Schedule A Order,03/27/2020 12:00:00 AM
+485 Victor Street,20-127464 NO,Schedule A Order,04/09/2020 12:00:00 AM
+890 Burrows Avenue,20-141589 NO,Schedule B Order,05/26/2020 12:00:00 AM
+305 Arlington Street,20-146931 NO,Schedule A Order,06/08/2020 12:00:00 AM
+4 Rover Avenue,20-148660 NO,Schedule A Order,06/11/2020 12:00:00 AM
+341 Seven Oaks Avenue,20-148682 NO,Schedule A Order,06/11/2020 12:00:00 AM
+194 Douglas Park Road,20-155453 NO,Schedule A Order,06/25/2020 12:00:00 AM
+480 Talbot Avenue,20-162231 NO,Schedule A Order,07/13/2020 12:00:00 AM
+506 Langevin Street,20-163402 NO,Schedule A Order,07/15/2020 12:00:00 AM
+506 Langevin Street,20-163403 NO,Schedule A Order,07/15/2020 12:00:00 AM
+824 Oak Street,20-165870 NO,Schedule A Order,07/20/2020 12:00:00 AM
+824 Oak Street,20-165871 NO,Schedule A Order,07/20/2020 12:00:00 AM
+446 Melbourne Avenue,20-174961 NO,Schedule A Order,08/07/2020 12:00:00 AM
+1041 Manitoba Avenue,20-176492 NO,Schedule A Order,08/11/2020 12:00:00 AM
+427 Anderson Avenue,20-183495 NO,Schedule A Order,08/26/2020 12:00:00 AM
+427 Anderson Avenue,20-183496 NO,Schedule A Order,08/26/2020 12:00:00 AM
+540 Alfred Avenue,20-184528 NO,Schedule A Order,08/28/2020 12:00:00 AM
+540 Alfred Avenue,20-184529 NO,Schedule A Order,08/28/2020 12:00:00 AM
+745 Parkdale Street,20-188427 NO,Schedule A Order,09/04/2020 12:00:00 AM
+432 Bannatyne Avenue,20-189233 NO,Schedule B Order,09/08/2020 12:00:00 AM
+339 Mountain Avenue,20-197824 NO,Schedule A Order,09/25/2020 12:00:00 AM
+265 Young Street,20-198990 NO,Schedule A Order,09/29/2020 12:00:00 AM
+265 Young Street,20-198991 NO,Schedule A Order,09/29/2020 12:00:00 AM
+321 Paul Boulevard,20-200335 NO,Schedule A Order,10/01/2020 12:00:00 AM
+321 Paul Boulevard,20-200336 NO,Schedule A Order,10/01/2020 12:00:00 AM
+1068 Talbot Avenue,20-200461 NO,Schedule A Order,10/01/2020 12:00:00 AM
+1068 Talbot Avenue,20-200462 NO,Schedule A Order,10/01/2020 12:00:00 AM
+1493 Ross Avenue W,20-201623 NO,Schedule A Order,10/05/2020 12:00:00 AM
+411 McKenzie Street,20-202968 NO,Schedule A Order,10/07/2020 12:00:00 AM
+397 Alfred Avenue,20-203838 NO,Schedule A Order,10/09/2020 12:00:00 AM
+397 Alfred Avenue,20-203839 NO,Schedule A Order,10/09/2020 12:00:00 AM
+119 Harrowby Avenue,20-206038 NO,Schedule A Order,10/15/2020 12:00:00 AM
+675 Manitoba Avenue,20-208110 NO,Schedule B Order,10/20/2020 12:00:00 AM
+655 Chrypko Drive,20-208105 NO,Schedule A Order,10/20/2020 12:00:00 AM
+655 Chrypko Drive,20-208106 NO,Schedule A Order,10/20/2020 12:00:00 AM
+365 William Newton Avenue,20-208736 NO,Schedule A Order,10/21/2020 12:00:00 AM
+365 William Newton Avenue,20-208737 NO,Schedule A Order,10/21/2020 12:00:00 AM
+253 Chambers Street,20-209102 NO,Schedule B Order,10/22/2020 12:00:00 AM
+432 Burrows Avenue,20-211435 NO,Schedule A Order,10/27/2020 12:00:00 AM
+432 Burrows Avenue,20-211436 NO,Schedule A Order,10/27/2020 12:00:00 AM
+431 Talbot Avenue,20-212513 NO,Schedule A Order,10/29/2020 12:00:00 AM
+431 Talbot Avenue,20-212515 NO,Schedule A Order,10/29/2020 12:00:00 AM
+155 Stephens Street,20-215009 NO,Schedule A Order,11/05/2020 12:00:00 AM
+155 Stephens Street,20-215010 NO,Schedule A Order,11/05/2020 12:00:00 AM
+479 College Avenue,20-215583 NO,Schedule A Order,11/06/2020 12:00:00 AM
+479 College Avenue,20-215585 NO,Schedule A Order,11/06/2020 12:00:00 AM
+139 Youville Street,20-217624 NO,Schedule A Order,11/12/2020 12:00:00 AM
+139 Youville Street,20-217625 NO,Schedule A Order,11/12/2020 12:00:00 AM
+961 Merriam Boulevard,20-219703 NO,Schedule A Order,11/18/2020 12:00:00 AM
+399 Boyd Avenue,20-222674 NO,Schedule A Order,11/26/2020 12:00:00 AM
+98 Frances Street,20-224628 NO,Schedule A Order,12/02/2020 12:00:00 AM
+256 Selkirk Avenue,20-225860 NO,Schedule B Order,12/07/2020 12:00:00 AM
+1402 Pacific Avenue W,20-226354 NO,Schedule A Order,12/08/2020 12:00:00 AM
+380 Alfred Avenue,20-229704 NO,Schedule A Order,12/16/2020 12:00:00 AM
+380 Alfred Avenue,20-229705 NO,Schedule A Order,12/16/2020 12:00:00 AM
+297 Jefferson Avenue,20-231785 NO,Schedule A Order,12/22/2020 12:00:00 AM
+444 Magnus Avenue,20-233321 NO,Schedule A Order,12/31/2020 12:00:00 AM
+444 Magnus Avenue,20-233323 NO,Schedule A Order,12/31/2020 12:00:00 AM
+256 Selkirk Avenue,20-233335 NO,Schedule A Order,12/31/2020 12:00:00 AM
+432 Bannatyne Avenue,21-102686 NO,Schedule A Order,01/06/2021 12:00:00 AM
+432 Bannatyne Avenue,21-102696 NO,Schedule A Order,01/06/2021 12:00:00 AM
+382 Alfred Avenue,21-105847 NO,Schedule A Order,01/13/2021 12:00:00 AM
+382 Alfred Avenue,21-105848 NO,Schedule A Order,01/13/2021 12:00:00 AM
+276 Alfred Avenue,21-107428 NO,Schedule A Order,01/18/2021 12:00:00 AM
+388 Elgin Avenue,21-108069 NO,Schedule A Order,01/20/2021 12:00:00 AM
+388 Elgin Avenue,21-108070 NO,Schedule A Order,01/20/2021 12:00:00 AM
+435 Pritchard Avenue,21-108196 NO,Schedule A Order,01/20/2021 12:00:00 AM
+393 Luxton Avenue W,21-108560 NO,Schedule A Order,01/21/2021 12:00:00 AM
+410 Albany Street,21-108603 NO,Schedule A Order,01/21/2021 12:00:00 AM
+194 Douglas Park Road,21-109778 NO,Schedule A Order,01/25/2021 12:00:00 AM
+747 Selkirk Avenue,21-111319 NO,Schedule A Order,01/29/2021 12:00:00 AM
+747 Selkirk Avenue,21-111320 NO,Schedule B Order,01/29/2021 12:00:00 AM
+388 Magnus Avenue,21-111365 NO,Schedule A Order,01/29/2021 12:00:00 AM
+570 Balmoral Street,21-117393 NO,Schedule A Order,02/18/2021 12:00:00 AM
+2211 Gallagher Avenue,21-118832 NO,Schedule A Order,02/23/2021 12:00:00 AM
+810 Sherburn Street,21-119612 NO,Schedule B Order,02/24/2021 12:00:00 AM
+858 Stella Avenue,21-120418 NO,Schedule A Order,02/26/2021 12:00:00 AM
+235 Andrews Street,21-121775 NO,Schedule A Order,03/02/2021 12:00:00 AM
+384 Lipton Street,21-136149 NO,Schedule A Order,04/08/2021 12:00:00 AM
+380 Alfred Avenue,21-140220 NO,Schedule B Order,04/19/2021 12:00:00 AM
+37 Millfield Drive,21-140753 NO,Schedule A Order,04/20/2021 12:00:00 AM
+37 Millfield Drive,21-140754 NO,Schedule A Order,04/20/2021 12:00:00 AM
+396 Maryland Street,21-143052 NO,Schedule A Order,04/26/2021 12:00:00 AM
+528 Beverley Street,21-143743 NO,Schedule A Order,04/27/2021 12:00:00 AM
+528 Beverley Street,21-143744 NO,Schedule A Order,04/27/2021 12:00:00 AM
+705 McMillan Avenue,21-151885 NO,Schedule A Order,05/13/2021 12:00:00 AM
+431 Manitoba Avenue,21-152398 NO,Schedule A Order,05/14/2021 12:00:00 AM
+235 Notre Dame Avenue,21-154368 NO,Schedule A Order,05/19/2021 12:00:00 AM
+761 Aberdeen Avenue,21-163748 NO,Schedule A Order,06/08/2021 12:00:00 AM
+761 Aberdeen Avenue,21-163749 NO,Schedule A Order,06/08/2021 12:00:00 AM
+205 Hampton Street,21-167350 NO,Schedule A Order,06/15/2021 12:00:00 AM
+205 Hampton Street,21-167351 NO,Schedule A Order,06/15/2021 12:00:00 AM
+700 Victor Street,21-167638 NO,Schedule A Order,06/15/2021 12:00:00 AM
+700 Stella Avenue,21-171423 NO,Schedule A Order,06/22/2021 12:00:00 AM
+256 Selkirk Avenue,21-172892 NO,Schedule A Order,06/24/2021 12:00:00 AM
+843 Pritchard Avenue,21-173200 NO,Schedule A Order,06/25/2021 12:00:00 AM
+721 Bannerman Avenue,21-173476 NO,Schedule B Order,06/25/2021 12:00:00 AM
+137 West Gate,21-174116 NO,Schedule A Order,06/28/2021 12:00:00 AM
+137 West Gate,21-174120 NO,Schedule A Order,06/28/2021 12:00:00 AM
+214 Main Street,21-179730 NO,Schedule A Order,07/09/2021 12:00:00 AM
+1153 Selkirk Avenue,21-182742 NO,Schedule A Order,07/14/2021 12:00:00 AM
+1153 Selkirk Avenue,21-182743 NO,Schedule A Order,07/14/2021 12:00:00 AM
+1153 Selkirk Avenue,21-182744 NO,Schedule A Order,07/14/2021 12:00:00 AM
+506 Langevin Street,21-183287 NO,Schedule A Order,07/15/2021 12:00:00 AM
+310 College Avenue,21-185130 NO,Schedule B Order,07/20/2021 12:00:00 AM
+280 St Mary Avenue,21-185581 NO,Schedule A Order,07/21/2021 12:00:00 AM
+388 Elgin Avenue,21-185743 NO,Schedule A Order,07/21/2021 12:00:00 AM
+689 Flora Avenue,21-185939 NO,Schedule B Order,07/21/2021 12:00:00 AM
+689 Flora Avenue,21-185940 NO,Schedule A Order,07/21/2021 12:00:00 AM
+689 Flora Avenue,21-185941 NO,Schedule A Order,07/21/2021 12:00:00 AM
+623 Alfred Avenue,21-191977 NO,Schedule A Order,07/29/2021 12:00:00 AM
+101 Paul Boulevard,21-192169 NO,Schedule A Order,07/29/2021 12:00:00 AM
+341 Seven Oaks Avenue,21-196636 NO,Schedule A Order,08/10/2021 12:00:00 AM
+194 Douglas Park Road,21-197851 NO,Schedule A Order,08/12/2021 12:00:00 AM
+388 Talbot Avenue,21-198313 NO,Schedule A Order,08/13/2021 12:00:00 AM
+388 Talbot Avenue,21-198314 NO,Schedule A Order,08/13/2021 12:00:00 AM
+522 Flora Avenue,21-199189 NO,Schedule A Order,08/16/2021 12:00:00 AM
+119 Harrowby Avenue,21-199774 NO,Schedule A Order,08/17/2021 12:00:00 AM
+119 Harrowby Avenue,21-199775 NO,Schedule A Order,08/17/2021 12:00:00 AM
+616 Alverstone Street,21-203969 NO,Schedule A Order,08/25/2021 12:00:00 AM
+360 Queenston Street,21-205874 NO,Schedule A Order,08/30/2021 12:00:00 AM
+360 Queenston Street,21-205875 NO,Schedule A Order,08/30/2021 12:00:00 AM
+500 William Avenue,21-206594 NO,Schedule A Order,08/31/2021 12:00:00 AM
+857 Stella Avenue,21-207306 NO,Schedule A Order,09/01/2021 12:00:00 AM
+857 Stella Avenue,21-207308 NO,Schedule A Order,09/01/2021 12:00:00 AM
+25 Heather Road,21-207729 NO,Schedule A Order,09/02/2021 12:00:00 AM
+577 Dufferin Avenue,21-207890 NO,Schedule A Order,09/02/2021 12:00:00 AM
+253 Chambers Street,21-209175 NO,Schedule A Order,09/07/2021 12:00:00 AM
+86 Lorne Avenue,21-210783 NO,Schedule B Order,09/10/2021 12:00:00 AM
+389 Magnus Avenue,21-210808 NO,Schedule B Order,09/10/2021 12:00:00 AM
+714 Warsaw Avenue,21-211693 NO,Schedule A Order,09/13/2021 12:00:00 AM
+427 Anderson Avenue,21-212342 NO,Schedule B Order,09/14/2021 12:00:00 AM
+520 Home Street,21-215931 NO,Schedule A Order,09/22/2021 12:00:00 AM
+520 Home Street,21-215932 NO,Schedule A Order,09/22/2021 12:00:00 AM
+1075 Strathcona Street,21-216025 NO,Schedule A Order,09/22/2021 12:00:00 AM
+1075 Strathcona Street,21-216026 NO,Schedule A Order,09/22/2021 12:00:00 AM
+847 Aberdeen Avenue,21-219071 NO,Schedule A Order,09/29/2021 12:00:00 AM
+847 Aberdeen Avenue,21-219072 NO,Schedule B Order,09/29/2021 12:00:00 AM
+847 Aberdeen Avenue,21-219073 NO,Schedule A Order,09/29/2021 12:00:00 AM
+739 Selkirk Avenue,21-220105 NO,Schedule A Order,10/01/2021 12:00:00 AM
+739 Selkirk Avenue,21-220107 NO,Schedule A Order,10/01/2021 12:00:00 AM
+406 Anderson Avenue,21-220806 NO,Schedule A Order,10/04/2021 12:00:00 AM
+915 Nairn Avenue,21-224573 NO,Schedule A Order,10/13/2021 12:00:00 AM
+408 Alfred Avenue,21-225578 NO,Schedule A Order,10/15/2021 12:00:00 AM
+689 Flora Avenue,21-230065 NO,Schedule A Order,10/26/2021 12:00:00 AM
+94 Cathedral Avenue,21-230147 NO,Schedule A Order,10/26/2021 12:00:00 AM
+885 Downing Street,21-232238 NO,Schedule A Order,11/01/2021 12:00:00 AM
+885 Downing Street,21-232239 NO,Schedule A Order,11/01/2021 12:00:00 AM
+246 Manitoba Avenue,21-237686 NO,Schedule B Order,11/16/2021 12:00:00 AM
+147 Imperial Avenue,21-237717 NO,Schedule A Order,11/16/2021 12:00:00 AM
+632 McGee Street,21-237770 NO,Schedule A Order,11/16/2021 12:00:00 AM
+632 McGee Street,21-237771 NO,Schedule A Order,11/16/2021 12:00:00 AM
+431 Talbot Avenue,21-239557 NO,Schedule A Order,11/22/2021 12:00:00 AM
+345 Martin Avenue W,21-242304 NO,Schedule A Order,11/29/2021 12:00:00 AM
+310 College Avenue,21-245448 NO,Schedule A Order,12/07/2021 12:00:00 AM
+310 College Avenue,21-245449 NO,Schedule A Order,12/07/2021 12:00:00 AM
+39 Knappen Avenue,21-247434 NO,Schedule A Order,12/13/2021 12:00:00 AM
+39 Knappen Avenue,21-247435 NO,Schedule A Order,12/13/2021 12:00:00 AM
+330 Creek Bend Road,21-249785 NO,Schedule A Order,12/20/2021 12:00:00 AM
+881 Main Street,21-251211 NO,Schedule A Order,12/23/2021 12:00:00 AM
+885 Main Street,21-251283 NO,Schedule A Order,12/24/2021 12:00:00 AM
+486 Basswood Place,21-251968 NO,Schedule A Order,12/30/2021 12:00:00 AM
+86 Lorne Avenue,21-252189 NO,Schedule A Order,12/31/2021 12:00:00 AM
+432 Burrows Avenue,22-101696 NO,Schedule B Order,01/04/2022 12:00:00 AM
+521 Redwood Avenue,22-101818 NO,Schedule A Order,01/04/2022 12:00:00 AM
+1863 William Avenue W,22-104563 NO,Schedule A Order,01/12/2022 12:00:00 AM
+282 Powers Street,22-106070 NO,Schedule A Order,01/17/2022 12:00:00 AM
+282 Powers Street,22-106071 NO,Schedule B Order,01/17/2022 12:00:00 AM
+629 Pritchard Avenue,22-106897 NO,Schedule A Order,01/19/2022 12:00:00 AM
+629 Pritchard Avenue,22-106898 NO,Schedule A Order,01/19/2022 12:00:00 AM
+204 Johnson Avenue W,22-109643 NO,Schedule A Order,01/27/2022 12:00:00 AM
+233 Smithfield Avenue,22-110142 NO,Schedule A Order,01/28/2022 12:00:00 AM
+41 Morley Avenue,22-110870 NO,Schedule B Order,01/31/2022 12:00:00 AM
+287 Bannerman Avenue,22-111250 NO,Schedule A Order,02/01/2022 12:00:00 AM
+135 Syndicate Street,22-115042 NO,Schedule A Order,02/11/2022 12:00:00 AM
+135 Syndicate Street,22-115043 NO,Schedule A Order,02/11/2022 12:00:00 AM
+847 Pritchard Avenue,22-117921 NO,Schedule A Order,02/22/2022 12:00:00 AM
+847 Pritchard Avenue,22-117922 NO,Schedule A Order,02/22/2022 12:00:00 AM
+672 Renfrew Street,22-121112 NO,Schedule A Order,03/03/2022 12:00:00 AM
+193 Parr Street,22-124019 NO,Schedule A Order,03/11/2022 12:00:00 AM
+193 Parr Street,22-124020 NO,Schedule A Order,03/11/2022 12:00:00 AM
+215 Fortier Avenue,22-128557 NO,Schedule A Order,03/24/2022 12:00:00 AM
+955 Selkirk Avenue,22-128572 NO,Schedule A Order,03/24/2022 12:00:00 AM
+955 Selkirk Avenue,22-128573 NO,Schedule A Order,03/24/2022 12:00:00 AM
+955 Selkirk Avenue,22-128578 NO,Schedule B Order,03/24/2022 12:00:00 AM
+824 Burnell Street,22-130120 NO,Schedule A Order,03/29/2022 12:00:00 AM
+854 Sherburn Street,22-130162 NO,Schedule A Order,03/29/2022 12:00:00 AM
+854 Sherburn Street,22-130163 NO,Schedule A Order,03/29/2022 12:00:00 AM
+392 Victor Street,22-133553 NO,Schedule A Order,04/06/2022 12:00:00 AM
+686 Alexander Avenue,22-133632 NO,Schedule B Order,04/06/2022 12:00:00 AM
+769 Mountain Avenue,22-133917 NO,Schedule B Order,04/07/2022 12:00:00 AM
+843 Pritchard Avenue,22-135185 NO,Schedule B Order,04/11/2022 12:00:00 AM
+700 Victor Street,22-135210 NO,Schedule B Order,04/11/2022 12:00:00 AM
+384 Lipton Street,22-136291 NO,Schedule A Order,04/13/2022 12:00:00 AM
+384 Lipton Street,22-137342 NO,Schedule A Order,04/19/2022 12:00:00 AM
+476 Stella Avenue,22-138664 NO,Schedule A Order,04/21/2022 12:00:00 AM
+476 Stella Avenue,22-138665 NO,Schedule A Order,04/21/2022 12:00:00 AM
+905 Nottingham Avenue,22-138963 NO,Schedule A Order,04/22/2022 12:00:00 AM
+905 Nottingham Avenue,22-138964 NO,Schedule A Order,04/22/2022 12:00:00 AM
+661 Selkirk Avenue,22-138986 NO,Schedule B Order,04/22/2022 12:00:00 AM
+425 Selkirk Avenue,22-145762 NO,Schedule A Order,05/09/2022 12:00:00 AM
+425 Selkirk Avenue,22-145763 NO,Schedule B Order,05/09/2022 12:00:00 AM
+705 McMillan Avenue,22-152331 NO,Schedule A Order,05/25/2022 12:00:00 AM
+202 Evanson Street,22-154605 NO,Schedule A Order,05/30/2022 12:00:00 AM
+642 McMillan Avenue,22-155687 NO,Schedule A Order,05/31/2022 12:00:00 AM
+1402 Pacific Avenue W,22-161475 NO,Schedule A Order,06/10/2022 12:00:00 AM
+983 Nairn Avenue,22-164674 NO,Schedule B Order,06/16/2022 12:00:00 AM
+346 Aberdeen Avenue,22-167523 NO,Schedule B Order,06/22/2022 12:00:00 AM
+382 Ottawa Avenue,22-169310 NO,Schedule A Order,06/27/2022 12:00:00 AM
+125 Magnus Avenue,22-170076 NO,Schedule A Order,06/28/2022 12:00:00 AM
+125 Magnus Avenue,22-170077 NO,Schedule A Order,06/28/2022 12:00:00 AM
+355 Parr Street,22-171299 NO,Schedule A Order,06/30/2022 12:00:00 AM
+355 Parr Street,22-171300 NO,Schedule A Order,06/30/2022 12:00:00 AM
+761 Aberdeen Avenue,22-175629 NO,Schedule B Order,07/11/2022 12:00:00 AM
+720 Home Street,22-177713 NO,Schedule A Order,07/14/2022 12:00:00 AM
+508 Beverley Street,23-128036 NO,Schedule A Order,03/23/2023 12:00:00 AM
+389 Magnus Avenue,23-128183 NO,Schedule A Order,03/23/2023 12:00:00 AM
+389 Magnus Avenue,23-128184 NO,Schedule A Order,03/23/2023 12:00:00 AM
+2211 Gallagher Avenue,23-129058 NO,Schedule A Order,03/27/2023 12:00:00 AM
+189 Burrows Avenue,23-129215 NO,Schedule A Order,03/27/2023 12:00:00 AM
+189 Burrows Avenue,23-129216 NO,Schedule A Order,03/27/2023 12:00:00 AM
+343 Alfred Avenue,23-130183 NO,Schedule A Order,03/29/2023 12:00:00 AM
+343 Alfred Avenue,23-130184 NO,Schedule A Order,03/29/2023 12:00:00 AM
+747 Selkirk Avenue,23-130485 NO,Schedule A Order,03/29/2023 12:00:00 AM
+804 Polson Avenue,23-131964 NO,Schedule A Order,04/03/2023 12:00:00 AM
+381 Arlington Street,23-135060 NO,Schedule A Order,04/12/2023 12:00:00 AM
+285 St John's Avenue,23-137716 NO,Schedule A Order,04/18/2023 12:00:00 AM
+285 St John's Avenue,23-137717 NO,Schedule A Order,04/18/2023 12:00:00 AM
+406 Anderson Avenue,23-138301 NO,Schedule A Order,04/19/2023 12:00:00 AM
+485 Victor Street,23-139972 NO,Schedule A Order,04/24/2023 12:00:00 AM
+409 Maryland Street,23-142188 NO,Schedule A Order,04/28/2023 12:00:00 AM
+230 Moore Avenue,23-143333 NO,Schedule A Order,05/01/2023 12:00:00 AM
+426 Stella Avenue,23-146489 NO,Schedule A Order,05/08/2023 12:00:00 AM
+235 Andrews Street,23-147509 NO,Schedule A Order,05/10/2023 12:00:00 AM
+382 Alfred Avenue,23-148340 NO,Schedule A Order,05/11/2023 12:00:00 AM
+377 Redwood Avenue,23-148432 NO,Schedule A Order,05/11/2023 12:00:00 AM
+377 Redwood Avenue,23-148433 NO,Schedule A Order,05/11/2023 12:00:00 AM
+324 Lindsay Street,23-149350 NO,Schedule A Order,05/15/2023 12:00:00 AM
+362 Talbot Avenue,23-150294 NO,Schedule A Order,05/16/2023 12:00:00 AM
+422 Sydney Avenue,23-150378 NO,Schedule A Order,05/16/2023 12:00:00 AM
+58 Weatherstone Place,23-150776 NO,Schedule A Order,05/17/2023 12:00:00 AM
+609 Avila Avenue,23-151034 NO,Schedule A Order,05/17/2023 12:00:00 AM
+535 Camden Place,23-153157 NO,Schedule A Order,05/23/2023 12:00:00 AM
+750 Selkirk Avenue,23-153212 NO,Schedule A Order,05/23/2023 12:00:00 AM
+346 Aberdeen Avenue,23-153698 NO,Schedule A Order,05/24/2023 12:00:00 AM
+617 Toronto Street,23-153871 NO,Schedule A Order,05/24/2023 12:00:00 AM
+214 Main Street,23-155886 NO,Schedule A Order,05/29/2023 12:00:00 AM
+202 Evanson Street,23-157222 NO,Schedule A Order,05/31/2023 12:00:00 AM
+202 Evanson Street,23-157223 NO,Schedule A Order,05/31/2023 12:00:00 AM
+705 McMillan Avenue,23-157236 NO,Schedule A Order,05/31/2023 12:00:00 AM
+486 Boyd Avenue,23-158313 NO,Schedule A Order,06/02/2023 12:00:00 AM
+524 Stella Avenue,23-159378 NO,Schedule A Order,06/05/2023 12:00:00 AM
+1060 Strathcona Street,23-159422 NO,Schedule A Order,06/05/2023 12:00:00 AM
+824 Burnell Street,23-162220 NO,Schedule B Order,06/09/2023 12:00:00 AM
+2029 Selkirk Avenue,23-163037 NO,Schedule A Order,06/12/2023 12:00:00 AM
+2029 Selkirk Avenue,23-163038 NO,Schedule A Order,06/12/2023 12:00:00 AM
+642 McMillan Avenue,23-168436 NO,Schedule A Order,06/22/2023 12:00:00 AM
+642 McMillan Avenue,23-168443 NO,Schedule B Order,06/22/2023 12:00:00 AM
+642 McMillan Avenue,23-168444 NO,Schedule A Order,06/22/2023 12:00:00 AM
+480 Talbot Avenue,23-168742 NO,Schedule B Order,06/22/2023 12:00:00 AM
+1385 Main Street,23-168781 NO,Schedule B Order,06/22/2023 12:00:00 AM
+125 Magnus Avenue,23-171374 NO,Schedule B Order,06/28/2023 12:00:00 AM
+155 East Gate,23-172011 NO,Schedule B Order,06/29/2023 12:00:00 AM
+698 Flora Avenue,23-172033 NO,Schedule B Order,06/29/2023 12:00:00 AM
+513 Sherbrook Street,23-176789 NO,Schedule A Order,07/11/2023 12:00:00 AM
+513 Sherbrook Street,23-176790 NO,Schedule A Order,07/11/2023 12:00:00 AM
+137 Brock Street,23-176852 NO,Schedule A Order,07/11/2023 12:00:00 AM
+137 Brock Street,23-176853 NO,Schedule A Order,07/11/2023 12:00:00 AM
+542 Sherbrook Street,23-180503 NO,Schedule A Order,07/18/2023 12:00:00 AM
+542 Sherbrook Street,23-180504 NO,Schedule A Order,07/18/2023 12:00:00 AM
+406 Anderson Avenue,23-185541 NO,Schedule B Order,07/26/2023 12:00:00 AM
+294 Toronto Street,23-185883 NO,Schedule B Order,07/27/2023 12:00:00 AM
+511 Bannatyne Avenue,23-186017 NO,Schedule A Order,07/27/2023 12:00:00 AM
+511 Bannatyne Avenue,23-186018 NO,Schedule A Order,07/27/2023 12:00:00 AM
+372 Harbison Avenue W,23-186289 NO,Schedule A Order,07/27/2023 12:00:00 AM
+700 Victor Street,23-186812 NO,Schedule A Order,07/28/2023 12:00:00 AM
+130 Sherbrook Street,23-194122 NO,Schedule A Order,08/11/2023 12:00:00 AM
+130 Sherbrook Street,23-194170 NO,Schedule A Order,08/11/2023 12:00:00 AM
+641 Moncton Avenue,23-195605 NO,Schedule A Order,08/15/2023 12:00:00 AM
+641 Moncton Avenue,23-195606 NO,Schedule A Order,08/15/2023 12:00:00 AM
+120 Moore Avenue,23-196181 NO,Schedule A Order,08/15/2023 12:00:00 AM
+109 Inkster Boulevard,23-196249 NO,Schedule A Order,08/15/2023 12:00:00 AM
+"587 Balmoral Street, Unit 1",23-196493 NO,Schedule A Order,08/16/2023 12:00:00 AM
+494 Boyd Avenue,23-200820 NO,Schedule B Order,08/22/2023 12:00:00 AM
+2278 Gallagher Avenue,23-204083 NO,Schedule A Order,08/28/2023 12:00:00 AM
+2278 Gallagher Avenue,23-204084 NO,Schedule A Order,08/28/2023 12:00:00 AM
+596 Aberdeen Avenue,23-205634 NO,Schedule A Order,08/30/2023 12:00:00 AM
+98 McKenzie Street,23-205728 NO,Schedule B Order,08/30/2023 12:00:00 AM
+445 Spence Street,23-205820 NO,Schedule A Order,08/30/2023 12:00:00 AM
+644 Dudley Avenue,23-206587 NO,Schedule A Order,08/31/2023 12:00:00 AM
+638 Dudley Avenue,23-206616 NO,Schedule A Order,08/31/2023 12:00:00 AM
+638 Dudley Avenue,23-206617 NO,Schedule A Order,08/31/2023 12:00:00 AM
+634 Dudley Avenue,23-207103 NO,Schedule A Order,09/01/2023 12:00:00 AM
+399 Nairn Avenue,23-209627 NO,Schedule A Order,09/07/2023 12:00:00 AM
+746 Selkirk Avenue,23-211246 NO,Schedule A Order,09/11/2023 12:00:00 AM
+1041 Manitoba Avenue,23-211982 NO,Schedule A Order,09/12/2023 12:00:00 AM
+1041 Manitoba Avenue,23-211983 NO,Schedule B Order,09/12/2023 12:00:00 AM
+1815 Elgin Avenue W,23-214944 NO,Schedule A Order,09/18/2023 12:00:00 AM
+1815 Elgin Avenue W,23-214945 NO,Schedule A Order,09/18/2023 12:00:00 AM
+1299 Strathcona Street,23-215196 NO,Schedule B Order,09/18/2023 12:00:00 AM
+452 Arnold Avenue,23-215743 NO,Schedule A Order,09/19/2023 12:00:00 AM
+452 Arnold Avenue,23-215744 NO,Schedule A Order,09/19/2023 12:00:00 AM
+25 Heather Road,23-215755 NO,Schedule A Order,09/19/2023 12:00:00 AM
+89 Essex Avenue,23-215879 NO,Schedule A Order,09/19/2023 12:00:00 AM
+281 Lipton Street,23-215909 NO,Schedule B Order,09/19/2023 12:00:00 AM
+596 Stella Avenue,23-216177 NO,Schedule B Order,09/20/2023 12:00:00 AM
+813 Main Street,23-216458 NO,Schedule A Order,09/20/2023 12:00:00 AM
+1504 Logan Avenue,23-216485 NO,Schedule A Order,09/20/2023 12:00:00 AM
+1504 Logan Avenue,23-216486 NO,Schedule A Order,09/20/2023 12:00:00 AM
+573 Young Street,23-216558 NO,Schedule A Order,09/20/2023 12:00:00 AM
+417 Maryland Street,23-217278 NO,Schedule A Order,09/21/2023 12:00:00 AM
+406 Burrows Avenue,23-217832 NO,Schedule B Order,09/22/2023 12:00:00 AM
+355 William Newton Avenue,23-218774 NO,Schedule A Order,09/25/2023 12:00:00 AM
+1272 Dominion Street,23-220207 NO,Schedule A Order,09/27/2023 12:00:00 AM
+537 Alfred Avenue,23-220711 NO,Schedule A Order,09/28/2023 12:00:00 AM
+537 Alfred Avenue,23-220712 NO,Schedule A Order,09/28/2023 12:00:00 AM
+360 Queenston Street,23-222711 NO,Schedule A Order,10/03/2023 12:00:00 AM
+769 Mountain Avenue,23-222736 NO,Schedule B Order,10/03/2023 12:00:00 AM
+769 Mountain Avenue,23-222737 NO,Schedule A Order,10/03/2023 12:00:00 AM
+520 Home Street,23-223096 NO,Schedule A Order,10/04/2023 12:00:00 AM
+414 Harbison Avenue W,23-223949 NO,Schedule B Order,10/05/2023 12:00:00 AM
+226 Regent Avenue E,23-224333 NO,Schedule A Order,10/06/2023 12:00:00 AM
+396 Maryland Street,22-185743 NO,Schedule B Order,07/29/2022 12:00:00 AM
+618 William Avenue,22-187769 NO,Schedule A Order,08/03/2022 12:00:00 AM
+810 Stella Avenue,22-189045 NO,Schedule A Order,08/05/2022 12:00:00 AM
+479 College Avenue,22-191191 NO,Schedule B Order,08/10/2022 12:00:00 AM
+640 Stella Avenue,22-191402 NO,Schedule A Order,08/10/2022 12:00:00 AM
+157 Scott Street,22-192185 NO,Schedule B Order,08/11/2022 12:00:00 AM
+426 Alfred Avenue,22-194691 NO,Schedule A Order,08/17/2022 12:00:00 AM
+41 Morley Avenue,22-194998 NO,Schedule A Order,08/17/2022 12:00:00 AM
+41 Morley Avenue,22-195017 NO,Schedule A Order,08/17/2022 12:00:00 AM
+641 Selkirk Avenue,22-195425 NO,Schedule A Order,08/18/2022 12:00:00 AM
+98 McKenzie Street,22-196993 NO,Schedule A Order,08/22/2022 12:00:00 AM
+98 McKenzie Street,22-196994 NO,Schedule A Order,08/22/2022 12:00:00 AM
+748 Banning Street,22-197307 NO,Schedule B Order,08/23/2022 12:00:00 AM
+417 Maryland Street,22-197310 NO,Schedule A Order,08/23/2022 12:00:00 AM
+399 Nairn Avenue,22-202196 NO,Schedule A Order,09/02/2022 12:00:00 AM
+570A Ellice Avenue,22-204078 NO,Schedule B Order,09/07/2022 12:00:00 AM
+406 Burrows Avenue,22-209862 NO,Schedule A Order,09/21/2022 12:00:00 AM
+406 Burrows Avenue,22-209863 NO,Schedule A Order,09/21/2022 12:00:00 AM
+207 Emerson Avenue,22-210133 NO,Schedule A Order,09/21/2022 12:00:00 AM
+371 Henderson Highway,22-212708 NO,Schedule B Order,09/27/2022 12:00:00 AM
+373 Henderson Highway,22-212724 NO,Schedule B Order,09/27/2022 12:00:00 AM
+354 College Avenue,22-218091 NO,Schedule A Order,10/12/2022 12:00:00 AM
+354 College Avenue,22-218121 NO,Schedule B Order,10/12/2022 12:00:00 AM
+1631 Regent Avenue W,22-219358 NO,Schedule B Order,10/14/2022 12:00:00 AM
+1799 Assiniboine Avenue,22-219914 NO,Schedule A Order,10/17/2022 12:00:00 AM
+634 Anderson Avenue,22-221024 NO,Schedule B Order,10/19/2022 12:00:00 AM
+983 Nairn Avenue,22-224506 NO,Schedule A Order,10/27/2022 12:00:00 AM
+847 Dufferin Avenue,22-226606 NO,Schedule A Order,11/02/2022 12:00:00 AM
+539 Maryland Street,22-229507 NO,Schedule A Order,11/10/2022 12:00:00 AM
+39 Knappen Avenue,22-231658 NO,Schedule B Order,11/17/2022 12:00:00 AM
+161 Stephens Street,22-233091 NO,Schedule A Order,11/22/2022 12:00:00 AM
+484 College Avenue,22-233859 NO,Schedule A Order,11/23/2022 12:00:00 AM
+58 Handyside Avenue,22-235388 NO,Schedule A Order,11/29/2022 12:00:00 AM
+135 Syndicate Street,22-235665 NO,Schedule B Order,11/29/2022 12:00:00 AM
+377 Redwood Avenue,22-235782 NO,Schedule B Order,11/29/2022 12:00:00 AM
+294 Toronto Street,22-236268 NO,Schedule A Order,11/30/2022 12:00:00 AM
+270 Selkirk Avenue,22-236680 NO,Schedule A Order,12/01/2022 12:00:00 AM
+270 Selkirk Avenue,22-236681 NO,Schedule A Order,12/01/2022 12:00:00 AM
+693 Victor Street,22-237425 NO,Schedule A Order,12/05/2022 12:00:00 AM
+693 Victor Street,22-237478 NO,Schedule A Order,12/05/2022 12:00:00 AM
+278 Toronto Street,22-237508 NO,Schedule A Order,12/05/2022 12:00:00 AM
+278 Toronto Street,22-237529 NO,Schedule B Order,12/05/2022 12:00:00 AM
+1385 Main Street,22-237646 NO,Schedule A Order,12/05/2022 12:00:00 AM
+210 Trent Avenue,22-238245 NO,Schedule A Order,12/06/2022 12:00:00 AM
+884 Burrows Avenue,22-238855 NO,Schedule A Order,12/07/2022 12:00:00 AM
+884 Burrows Avenue,22-238856 NO,Schedule A Order,12/07/2022 12:00:00 AM
+884 Burrows Avenue,22-238863 NO,Schedule B Order,12/07/2022 12:00:00 AM
+387 Maryland Street,22-239674 NO,Schedule A Order,12/09/2022 12:00:00 AM
+387 Maryland Street,22-239675 NO,Schedule A Order,12/09/2022 12:00:00 AM
+252 Sherman Street,22-239979 NO,Schedule A Order,12/12/2022 12:00:00 AM
+138 Langside Street,22-240235 NO,Schedule A Order,12/12/2022 12:00:00 AM
+19 D'orsay Place,22-240310 NO,Schedule A Order,12/12/2022 12:00:00 AM
+1506 Ross Avenue W,22-240698 NO,Schedule A Order,12/13/2022 12:00:00 AM
+1506 Ross Avenue W,22-240699 NO,Schedule A Order,12/13/2022 12:00:00 AM
+485 Furby Street,22-241640 NO,Schedule A Order,12/15/2022 12:00:00 AM
+485 Furby Street,22-241641 NO,Schedule A Order,12/15/2022 12:00:00 AM
+127 Taraska Bay,22-241699 NO,Schedule A Order,12/15/2022 12:00:00 AM
+210 Talbot Avenue,22-241941 NO,Schedule A Order,12/16/2022 12:00:00 AM
+210 Talbot Avenue,22-241942 NO,Schedule A Order,12/16/2022 12:00:00 AM
+828 St Mary's Road,22-242492 NO,Schedule A Order,12/19/2022 12:00:00 AM
+828 St Mary's Road,22-242493 NO,Schedule A Order,12/19/2022 12:00:00 AM
+756 Prince Rupert Avenue,22-242792 NO,Schedule A Order,12/20/2022 12:00:00 AM
+721 Bannerman Avenue,22-243247 NO,Schedule A Order,12/21/2022 12:00:00 AM
+885 Main Street,22-243780 NO,Schedule A Order,12/23/2022 12:00:00 AM
+881 Main Street,22-243792 NO,Schedule A Order,12/23/2022 12:00:00 AM
+644 Logan Avenue,22-244579 NO,Schedule B Order,12/29/2022 12:00:00 AM
+301 Alfred Avenue,22-244767 NO,Schedule A Order,12/30/2022 12:00:00 AM
+301 Alfred Avenue,22-244768 NO,Schedule A Order,12/30/2022 12:00:00 AM
+157 Scott Street,23-103962 NO,Schedule A Order,01/10/2023 12:00:00 AM
+157 Scott Street,23-103963 NO,Schedule A Order,01/10/2023 12:00:00 AM
+1914 Pacific Avenue W,23-104198 NO,Schedule A Order,01/10/2023 12:00:00 AM
+546 Renfrew Street,23-105927 NO,Schedule A Order,01/16/2023 12:00:00 AM
+655 Westminster Avenue,23-106199 NO,Schedule A Order,01/17/2023 12:00:00 AM
+655 Westminster Avenue,23-106378 NO,Schedule A Order,01/17/2023 12:00:00 AM
+476 Stella Avenue,23-106649 NO,Schedule B Order,01/18/2023 12:00:00 AM
+1012 Pritchard Avenue,23-108692 NO,Schedule A Order,01/24/2023 12:00:00 AM
+1012 Pritchard Avenue,23-108702 NO,Schedule A Order,01/24/2023 12:00:00 AM
+760 Boyd Avenue,23-109168 NO,Schedule A Order,01/25/2023 12:00:00 AM
+760 Boyd Avenue,23-109169 NO,Schedule A Order,01/25/2023 12:00:00 AM
+1631 Regent Avenue W,23-109293 NO,Schedule A Order,01/26/2023 12:00:00 AM
+836 Aberdeen Avenue,23-109407 NO,Schedule B Order,01/26/2023 12:00:00 AM
+135 Grove Street,23-110342 NO,Schedule A Order,01/30/2023 12:00:00 AM
+135 Grove Street,23-110361 NO,Schedule A Order,01/30/2023 12:00:00 AM
+3009 Roblin Boulevard,23-110918 NO,Schedule A Order,01/31/2023 12:00:00 AM
+377 Carlton Street,23-111867 NO,Schedule B Order,02/02/2023 12:00:00 AM
+31 Sachet Place,23-113117 NO,Schedule B Order,02/07/2023 12:00:00 AM
+629 Pritchard Avenue,23-113561 NO,Schedule A Order,02/08/2023 12:00:00 AM
+629 Pritchard Avenue,23-113562 NO,Schedule A Order,02/08/2023 12:00:00 AM
+355 Parr Street,23-114091 NO,Schedule B Order,02/09/2023 12:00:00 AM
+204 Johnson Avenue W,23-114325 NO,Schedule A Order,02/10/2023 12:00:00 AM
+740 Toronto Street,23-115448 NO,Schedule A Order,02/14/2023 12:00:00 AM
+520 Giroux Street,23-115572 NO,Schedule A Order,02/14/2023 12:00:00 AM
+489 Dufferin Avenue,23-118766 NO,Schedule A Order,02/24/2023 12:00:00 AM
+489 Dufferin Avenue,23-118767 NO,Schedule A Order,02/24/2023 12:00:00 AM
+484 Selkirk Avenue,23-119308 NO,Schedule A Order,02/27/2023 12:00:00 AM
+306 College Avenue,23-119664 NO,Schedule A Order,02/28/2023 12:00:00 AM
+306 College Avenue,23-119683 NO,Schedule A Order,02/28/2023 12:00:00 AM
+106 St Anthony Avenue,23-119997 NO,Schedule A Order,03/01/2023 12:00:00 AM
+192 Johnson Avenue W,23-120010 NO,Schedule A Order,03/01/2023 12:00:00 AM
+194 Douglas Park Road,23-120700 NO,Schedule A Order,03/02/2023 12:00:00 AM
+513 Sherbrook Street,23-120891 NO,Schedule B Order,03/03/2023 12:00:00 AM
+135 Syndicate Street,23-121104 NO,Schedule A Order,03/03/2023 12:00:00 AM
+661 Selkirk Avenue,23-121149 NO,Schedule A Order,03/03/2023 12:00:00 AM
+685 Stella Avenue,23-122722 NO,Schedule A Order,03/08/2023 12:00:00 AM
+435 Pritchard Avenue,23-123219 NO,Schedule A Order,03/09/2023 12:00:00 AM
+287 Pritchard Avenue,23-123506 NO,Schedule A Order,03/10/2023 12:00:00 AM
+287 Pritchard Avenue,23-123511 NO,Schedule A Order,03/10/2023 12:00:00 AM
+133 Inkster Boulevard,23-126723 NO,Schedule A Order,03/20/2023 12:00:00 AM
+186 Higgins Avenue,23-126925 NO,Schedule A Order,03/20/2023 12:00:00 AM
+193 Parr Street,23-126936 NO,Schedule A Order,03/20/2023 12:00:00 AM
+517 Langside Street,23-127999 NO,Schedule A Order,03/23/2023 12:00:00 AM
+1345 Storie Road,23-225905 NO,Schedule A Order,10/11/2023 12:00:00 AM
+283 Bowman Avenue,23-226045 NO,Schedule A Order,10/11/2023 12:00:00 AM
+283 Bowman Avenue,23-226046 NO,Schedule A Order,10/11/2023 12:00:00 AM
+157 Traverse Avenue,23-226240 NO,Schedule A Order,10/11/2023 12:00:00 AM
+1280 Alexander Avenue,23-226742 NO,Schedule A Order,10/12/2023 12:00:00 AM
+698 Flora Avenue,23-227987 NO,Schedule A Order,10/16/2023 12:00:00 AM
+551 Selkirk Avenue,23-228842 NO,Schedule A Order,10/17/2023 12:00:00 AM
+1463 Winnipeg Avenue W,23-228871 NO,Schedule A Order,10/17/2023 12:00:00 AM
+276 Alfred Avenue,24-260161 NO,Schedule B Order,10/31/2024 12:00:00 AM
+380 Burrows Avenue,24-260484 NO,Schedule A Order,11/01/2024 12:00:00 AM
+128 River Avenue,24-260647 NO,Schedule A Order,11/01/2024 12:00:00 AM
+355 Parr Street,24-260761 NO,Schedule B Order,11/01/2024 12:00:00 AM
+586 St Catherine Street,24-260793 NO,Schedule B Order,11/01/2024 12:00:00 AM
+685 Beverley Street,24-262218 NO,Schedule A Order,11/05/2024 12:00:00 AM
+1216 Manahan Avenue,24-262303 NO,Schedule B Order,11/06/2024 12:00:00 AM
+409 Maryland Street,24-262793 NO,Schedule B Order,11/06/2024 12:00:00 AM
+607 Pacific Avenue,24-263115 NO,Schedule B Order,11/07/2024 12:00:00 AM
+381 Home Street,24-263397 NO,Schedule B Order,11/08/2024 12:00:00 AM
+741 Selkirk Avenue,24-264256 NO,Schedule A Order,11/12/2024 12:00:00 AM
+685 Aberdeen Avenue,24-264288 NO,Schedule B Order,11/12/2024 12:00:00 AM
+253 Chambers Street,24-264355 NO,Schedule A Order,11/12/2024 12:00:00 AM
+413 Magnus Avenue,24-264407 NO,Schedule B Order,11/12/2024 12:00:00 AM
+413 Magnus Avenue,24-264408 NO,Schedule A Order,11/12/2024 12:00:00 AM
+297 Patrick Street,24-264761 NO,Schedule B Order,11/13/2024 12:00:00 AM
+388 Talbot Avenue,24-264707 NO,Schedule A Order,11/13/2024 12:00:00 AM
+452 Arnold Avenue,24-265135 NO,Schedule A Order,11/13/2024 12:00:00 AM
+202 Evanson Street,24-265616 NO,Schedule B Order,11/14/2024 12:00:00 AM
+255 Laura Street,24-265936 NO,Schedule A Order,11/15/2024 12:00:00 AM
+678 Arlington Street,24-266883 NO,Schedule B Order,11/18/2024 12:00:00 AM
+678 Arlington Street,24-266902 NO,Schedule A Order,11/18/2024 12:00:00 AM
+438 William Newton Avenue,24-266949 NO,Schedule B Order,11/18/2024 12:00:00 AM
+366 Church Avenue,24-267129 NO,Schedule B Order,11/19/2024 12:00:00 AM
+311 McLeod Avenue,24-267508 NO,Schedule A Order,11/19/2024 12:00:00 AM
+154 Sherbrook Street,24-267525 NO,Schedule A Order,11/19/2024 12:00:00 AM
+563 Spence Street,24-267958 NO,Schedule B Order,11/20/2024 12:00:00 AM
+58 Weatherstone Place,24-268348 NO,Schedule B Order,11/21/2024 12:00:00 AM
+650 Furby Street,24-268580 NO,Schedule A Order,11/21/2024 12:00:00 AM
+257 Lulu Street,24-268686 NO,Schedule A Order,11/21/2024 12:00:00 AM
+707 Home Street,24-268707 NO,Schedule A Order,11/21/2024 12:00:00 AM
+650 Furby Street,24-268737 NO,Schedule B Order,11/21/2024 12:00:00 AM
+828 St Mary's Road,24-268757 NO,Schedule B Order,11/21/2024 12:00:00 AM
+381 College Avenue,24-268879 NO,Schedule B Order,11/22/2024 12:00:00 AM
+355 William Newton Avenue,24-268977 NO,Schedule B Order,11/22/2024 12:00:00 AM
+226 Regent Avenue E,24-269199 NO,Schedule B Order,11/22/2024 12:00:00 AM
+624 Greenwood Place,24-269236 NO,Schedule A Order,11/22/2024 12:00:00 AM
+584 Stella Avenue,24-269232 NO,Schedule A Order,11/22/2024 12:00:00 AM
+584 Stella Avenue,24-269233 NO,Schedule A Order,11/22/2024 12:00:00 AM
+340 Alfred Avenue,24-269873 NO,Schedule B Order,11/25/2024 12:00:00 AM
+475 Toronto Street,24-269923 NO,Schedule A Order,11/25/2024 12:00:00 AM
+367 Stella Avenue,24-270207 NO,Schedule B Order,11/26/2024 12:00:00 AM
+641 Selkirk Avenue,24-270366 NO,Schedule B Order,11/26/2024 12:00:00 AM
+449 Dufferin Avenue,24-270466 NO,Schedule A Order,11/26/2024 12:00:00 AM
+109 Horton Avenue W,24-270447 NO,Schedule A Order,11/26/2024 12:00:00 AM
+449 Dufferin Avenue,24-270480 NO,Schedule B Order,11/26/2024 12:00:00 AM
+66 Rampart Bay,24-270670 NO,Schedule A Order,11/27/2024 12:00:00 AM
+505 Magnus Avenue,24-270904 NO,Schedule B Order,11/27/2024 12:00:00 AM
+1327 Manitoba Avenue,24-270876 NO,Schedule B Order,11/27/2024 12:00:00 AM
+486 College Avenue,24-271344 NO,Schedule B Order,11/28/2024 12:00:00 AM
+486 College Avenue,24-271345 NO,Schedule A Order,11/28/2024 12:00:00 AM
+484 Selkirk Avenue,24-271725 NO,Schedule B Order,11/29/2024 12:00:00 AM
+484 Selkirk Avenue,24-271750 NO,Schedule A Order,11/29/2024 12:00:00 AM
+144 Arlington Street,24-272680 NO,Schedule B Order,12/02/2024 12:00:00 AM
+144 Arlington Street,24-272681 NO,Schedule A Order,12/02/2024 12:00:00 AM
+1629 Ross Avenue W,24-272734 NO,Schedule A Order,12/02/2024 12:00:00 AM
+204 Johnson Avenue W,24-272839 NO,Schedule B Order,12/03/2024 12:00:00 AM
+204 Johnson Avenue W,24-272840 NO,Schedule A Order,12/03/2024 12:00:00 AM
+72 Cobourg Avenue,24-273004 NO,Schedule A Order,12/03/2024 12:00:00 AM
+421 Alexander Avenue,24-272938 NO,Schedule B Order,12/03/2024 12:00:00 AM
+204 Johnson Avenue W,24-273153 NO,Schedule A Order,12/03/2024 12:00:00 AM
+494 Boyd Avenue,24-273164 NO,Schedule A Order,12/03/2024 12:00:00 AM
+14 Riverside Drive,24-273252 NO,Schedule B Order,12/03/2024 12:00:00 AM
+419 Aberdeen Avenue,24-273428 NO,Schedule A Order,12/04/2024 12:00:00 AM
+1812 Pacific Avenue W,24-273540 NO,Schedule A Order,12/04/2024 12:00:00 AM
+1812 Pacific Avenue W,24-273541 NO,Schedule A Order,12/04/2024 12:00:00 AM
+1812 Pacific Avenue W,24-273542 NO,Schedule A Order,12/04/2024 12:00:00 AM
+180 Creek Bend Road,24-273652 NO,Schedule A Order,12/04/2024 12:00:00 AM
+432 Assiniboine Avenue,24-273668 NO,Schedule B Order,12/04/2024 12:00:00 AM
+432 Assiniboine Avenue,24-273669 NO,Schedule A Order,12/04/2024 12:00:00 AM
+14 Riverside Drive,24-274577 NO,Schedule A Order,12/06/2024 12:00:00 AM
+696 Selkirk Avenue,24-275293 NO,Schedule A Order,12/09/2024 12:00:00 AM
+346 Donald Street,24-275350 NO,Schedule B Order,12/09/2024 12:00:00 AM
+174 Roberta Avenue,24-275460 NO,Schedule A Order,12/09/2024 12:00:00 AM
+693 Victor Street,24-275945 NO,Schedule B Order,12/10/2024 12:00:00 AM
+18 Malone Street,24-276036 NO,Schedule A Order,12/10/2024 12:00:00 AM
+297 Patrick Street,24-276212 NO,Schedule A Order,12/11/2024 12:00:00 AM
+257 Magnus Avenue,24-276254 NO,Schedule B Order,12/11/2024 12:00:00 AM
+686 Alexander Avenue,24-276256 NO,Schedule A Order,12/11/2024 12:00:00 AM
+301 Alfred Avenue,24-276980 NO,Schedule A Order,12/12/2024 12:00:00 AM
+277 Ashland Avenue,24-277262 NO,Schedule B Order,12/13/2024 12:00:00 AM
+273 Austin Street N,24-277289 NO,Schedule B Order,12/13/2024 12:00:00 AM
+58 Handyside Avenue,24-277363 NO,Schedule B Order,12/13/2024 12:00:00 AM
+114 Higgins Avenue,24-277566 NO,Schedule A Order,12/16/2024 12:00:00 AM
+688 McPhillips Street,24-277903 NO,Schedule B Order,12/16/2024 12:00:00 AM
+114 Higgins Avenue,24-278350 NO,Schedule B Order,12/17/2024 12:00:00 AM
+50 Argyle Street,24-278371 NO,Schedule B Order,12/17/2024 12:00:00 AM
+119 Manford Close,24-278415 NO,Schedule A Order,12/17/2024 12:00:00 AM
+1975 Ross Avenue W,24-278808 NO,Schedule A Order,12/18/2024 12:00:00 AM
+873 Aberdeen Avenue,24-278870 NO,Schedule A Order,12/18/2024 12:00:00 AM
+1273 Manitoba Avenue,24-279093 NO,Schedule B Order,12/19/2024 12:00:00 AM
+549 Selkirk Avenue,24-279124 NO,Schedule B Order,12/19/2024 12:00:00 AM
+437 Pritchard Avenue,24-279170 NO,Schedule B Order,12/19/2024 12:00:00 AM
+894 Home Street,24-279314 NO,Schedule A Order,12/19/2024 12:00:00 AM
+294 Marjorie Street,24-279294 NO,Schedule B Order,12/19/2024 12:00:00 AM
+552 Regent Avenue E,24-279430 NO,Schedule A Order,12/20/2024 12:00:00 AM
+588 Langside Street,24-279449 NO,Schedule B Order,12/20/2024 12:00:00 AM
+873 Aberdeen Avenue,24-279535 NO,Schedule B Order,12/20/2024 12:00:00 AM
+1977 Bannatyne Avenue W,24-279579 NO,Schedule A Order,12/20/2024 12:00:00 AM
+225 Logan Avenue,24-279665 NO,Schedule A Order,12/20/2024 12:00:00 AM
+678 Agnes Street,24-279677 NO,Schedule B Order,12/20/2024 12:00:00 AM
+685 Beverley Street,24-279735 NO,Schedule B Order,12/20/2024 12:00:00 AM
+95 St Vital Road,24-279777 NO,Schedule A Order,12/20/2024 12:00:00 AM
+132 Syndicate Street,24-279774 NO,Schedule A Order,12/20/2024 12:00:00 AM
+1454 Ravelston Avenue W,24-280265 NO,Schedule B Order,12/23/2024 12:00:00 AM
+567 Alexander Avenue,24-280401 NO,Schedule B Order,12/24/2024 12:00:00 AM
+422 Alfred Avenue,24-280543 NO,Schedule B Order,12/27/2024 12:00:00 AM
+109 Inkster Boulevard,24-280644 NO,Schedule B Order,12/27/2024 12:00:00 AM
+409 Maryland Street,24-280712 NO,Schedule B Order,12/27/2024 12:00:00 AM
+139 Middle Gate,24-280728 NO,Schedule B Order,12/27/2024 12:00:00 AM
+505 Kildare Avenue W,24-280886 NO,Schedule A Order,12/30/2024 12:00:00 AM
+265 Young Street,24-281174 NO,Schedule A Order,12/30/2024 12:00:00 AM
+423 Alexander Avenue,24-281180 NO,Schedule B Order,12/30/2024 12:00:00 AM
+627 Ellice Avenue,24-281250 NO,Schedule A Order,12/30/2024 12:00:00 AM
+831 Strathcona Street,24-281349 NO,Schedule A Order,12/31/2024 12:00:00 AM
+210 Talbot Avenue,24-281391 NO,Schedule B Order,12/31/2024 12:00:00 AM
+281 Lipton Street,24-281550 NO,Schedule A Order,12/31/2024 12:00:00 AM
+94 Cathedral Avenue,25-101907 NO,Schedule B Order,01/03/2025 12:00:00 AM
+982 Main Street,25-102431 NO,Schedule B Order,01/06/2025 12:00:00 AM
+28 Woodrow Place,25-102616 NO,Schedule B Order,01/07/2025 12:00:00 AM
+721 Flora Avenue,25-102821 NO,Schedule B Order,01/07/2025 12:00:00 AM
+27 Paulley Drive,25-104371 NO,Schedule A Order,01/10/2025 12:00:00 AM
+881 Main Street,25-104406 NO,Schedule B Order,01/10/2025 12:00:00 AM
+8851/2 Main Street,25-104714 NO,Schedule B Order,01/13/2025 12:00:00 AM
+438 Toronto Street,25-105538 NO,Schedule B Order,01/14/2025 12:00:00 AM
+444 Magnus Avenue,24-157620 NO,Schedule A Order,05/15/2024 12:00:00 AM
+346 Arnold Avenue,24-160399 NO,Schedule A Order,05/22/2024 12:00:00 AM
+346 Arnold Avenue,24-160400 NO,Schedule A Order,05/22/2024 12:00:00 AM
+348 Arnold Avenue,24-160410 NO,Schedule A Order,05/22/2024 12:00:00 AM
+348 Arnold Avenue,24-160411 NO,Schedule A Order,05/22/2024 12:00:00 AM
+350 Arnold Avenue,24-160438 NO,Schedule A Order,05/22/2024 12:00:00 AM
+350 Arnold Avenue,24-160439 NO,Schedule A Order,05/22/2024 12:00:00 AM
+246 Princess Street,24-160465 NO,Schedule A Order,05/22/2024 12:00:00 AM
+352 Arnold Avenue,24-160483 NO,Schedule A Order,05/22/2024 12:00:00 AM
+352 Arnold Avenue,24-160484 NO,Schedule A Order,05/22/2024 12:00:00 AM
+244 Princess Street,24-160474 NO,Schedule A Order,05/22/2024 12:00:00 AM
+242 Princess Street,24-160480 NO,Schedule A Order,05/22/2024 12:00:00 AM
+484 Agnes Street,24-161065 NO,Schedule A Order,05/23/2024 12:00:00 AM
+331 Trent Avenue,24-161959 NO,Schedule B Order,05/24/2024 12:00:00 AM
+928 Aberdeen Avenue,24-162341 NO,Schedule A Order,05/26/2024 12:00:00 AM
+707 McPhillips Street,24-162376 NO,Schedule A Order,05/26/2024 12:00:00 AM
+378 Pritchard Avenue,24-162638 NO,Schedule A Order,05/27/2024 12:00:00 AM
+629 Nairn Avenue,24-163203 NO,Schedule A Order,05/27/2024 12:00:00 AM
+629 Nairn Avenue,24-163204 NO,Schedule A Order,05/27/2024 12:00:00 AM
+432 Redwood Avenue,24-164167 NO,Schedule B Order,05/29/2024 12:00:00 AM
+432 Redwood Avenue,24-164169 NO,Schedule A Order,05/29/2024 12:00:00 AM
+366 Church Avenue,24-164322 NO,Schedule A Order,05/29/2024 12:00:00 AM
+130 Sherbrook Street,24-164407 NO,Schedule B Order,05/29/2024 12:00:00 AM
+174 Selkirk Avenue,24-164459 NO,Schedule A Order,05/29/2024 12:00:00 AM
+632 McGee Street,24-164471 NO,Schedule A Order,05/29/2024 12:00:00 AM
+137 Harrowby Avenue,24-167077 NO,Schedule A Order,06/03/2024 12:00:00 AM
+598 Main Street,24-167411 NO,Schedule A Order,06/03/2024 12:00:00 AM
+598 Main Street,24-167664 NO,Schedule B Order,06/03/2024 12:00:00 AM
+235 Andrews Street,24-168307 NO,Schedule B Order,06/04/2024 12:00:00 AM
+642 McMillan Avenue,24-169001 NO,Schedule A Order,06/05/2024 12:00:00 AM
+283 Andrews Street,24-169871 NO,Schedule B Order,06/06/2024 12:00:00 AM
+544 Aberdeen Avenue,24-170451 NO,Schedule A Order,06/07/2024 12:00:00 AM
+412 Salter Street,24-172345 NO,Schedule A Order,06/11/2024 12:00:00 AM
+422 Alfred Avenue,24-172629 NO,Schedule A Order,06/11/2024 12:00:00 AM
+546 Renfrew Street,24-173139 NO,Schedule A Order,06/12/2024 12:00:00 AM
+1402 Pacific Avenue W,24-173422 NO,Schedule A Order,06/12/2024 12:00:00 AM
+2029 Selkirk Avenue,24-173398 NO,Schedule A Order,06/12/2024 12:00:00 AM
+436 St John's Avenue,24-177100 NO,Schedule A Order,06/19/2024 12:00:00 AM
+341 Seven Oaks Avenue,24-177779 NO,Schedule A Order,06/20/2024 12:00:00 AM
+103 St Anne's Road,24-177824 NO,Schedule A Order,06/20/2024 12:00:00 AM
+103 St Anne's Road,24-177825 NO,Schedule A Order,06/20/2024 12:00:00 AM
+517 Langside Street,24-178068 NO,Schedule B Order,06/20/2024 12:00:00 AM
+371 Henderson Highway,24-178554 NO,Schedule A Order,06/21/2024 12:00:00 AM
+373 Henderson Highway,24-178574 NO,Schedule A Order,06/21/2024 12:00:00 AM
+1143 Burrows Avenue,24-178726 NO,Schedule A Order,06/21/2024 12:00:00 AM
+486 Boyd Avenue,24-179717 NO,Schedule A Order,06/24/2024 12:00:00 AM
+58 Weatherstone Place,24-180409 NO,Schedule A Order,06/25/2024 12:00:00 AM
+35 Penny Lane,24-181211 NO,Schedule A Order,06/26/2024 12:00:00 AM
+617 Toronto Street,24-182090 NO,Schedule A Order,06/27/2024 12:00:00 AM
+513 Sherbrook Street,24-182843 NO,Schedule A Order,06/28/2024 12:00:00 AM
+382 Ottawa Avenue,24-183312 NO,Schedule A Order,07/02/2024 12:00:00 AM
+491 Burrows Avenue,24-185753 NO,Schedule A Order,07/05/2024 12:00:00 AM
+752 Broadway,24-187029 NO,Schedule A Order,07/08/2024 12:00:00 AM
+104 Inkster Boulevard,24-187879 NO,Schedule A Order,07/09/2024 12:00:00 AM
+409 Notre Dame Avenue,24-189172 NO,Schedule A Order,07/11/2024 12:00:00 AM
+681 Pritchard Avenue,24-189154 NO,Schedule B Order,07/11/2024 12:00:00 AM
+445 Spence Street,24-189408 NO,Schedule B Order,07/12/2024 12:00:00 AM
+366 Church Avenue,24-189692 NO,Schedule B Order,07/12/2024 12:00:00 AM
+421 Alexander Avenue,24-190279 NO,Schedule B Order,07/15/2024 12:00:00 AM
+421 Alexander Avenue,24-190280 NO,Schedule B Order,07/15/2024 12:00:00 AM
+591 Selkirk Avenue,24-190323 NO,Schedule A Order,07/15/2024 12:00:00 AM
+1631 Regent Avenue W,24-191810 NO,Schedule B Order,07/17/2024 12:00:00 AM
+741 Selkirk Avenue,24-191949 NO,Schedule B Order,07/17/2024 12:00:00 AM
+1345 Storie Road,24-191995 NO,Schedule B Order,07/17/2024 12:00:00 AM
+1345 Storie Road,24-191996 NO,Schedule B Order,07/17/2024 12:00:00 AM
+301 Alfred Avenue,24-192531 NO,Schedule B Order,07/18/2024 12:00:00 AM
+2303 Main Street,24-194441 NO,Schedule A Order,07/22/2024 12:00:00 AM
+2303 Main Street,24-194449 NO,Schedule B Order,07/22/2024 12:00:00 AM
+573 Young Street,24-195111 NO,Schedule B Order,07/23/2024 12:00:00 AM
+307 Johnson Avenue W,24-195180 NO,Schedule A Order,07/23/2024 12:00:00 AM
+169 Marshall Crescent,24-195498 NO,Schedule A Order,07/23/2024 12:00:00 AM
+775 Burrows Avenue,24-195596 NO,Schedule A Order,07/23/2024 12:00:00 AM
+555 Centennial Street,24-196119 NO,Schedule A Order,07/24/2024 12:00:00 AM
+863 Nassau Street S,24-196352 NO,Schedule A Order,07/24/2024 12:00:00 AM
+607 Aberdeen Avenue,24-197014 NO,Schedule A Order,07/25/2024 12:00:00 AM
+607 Aberdeen Avenue,24-197015 NO,Schedule A Order,07/25/2024 12:00:00 AM
+2029 Selkirk Avenue,24-196998 NO,Schedule B Order,07/25/2024 12:00:00 AM
+720 Home Street,24-197251 NO,Schedule B Order,07/25/2024 12:00:00 AM
+720 Home Street,24-197238 NO,Schedule A Order,07/25/2024 12:00:00 AM
+720 Home Street,24-197239 NO,Schedule A Order,07/25/2024 12:00:00 AM
+422 Sydney Avenue,24-197947 NO,Schedule A Order,07/26/2024 12:00:00 AM
+715 Pritchard Avenue,24-198533 NO,Schedule B Order,07/29/2024 12:00:00 AM
+891 Redwood Avenue,24-198678 NO,Schedule A Order,07/29/2024 12:00:00 AM
+891 Redwood Avenue,24-198679 NO,Schedule A Order,07/29/2024 12:00:00 AM
+535 Camden Place,24-200452 NO,Schedule A Order,07/31/2024 12:00:00 AM
+588 Langside Street,24-201314 NO,Schedule A Order,08/01/2024 12:00:00 AM
+366 Church Avenue,24-204480 NO,Schedule A Order,08/08/2024 12:00:00 AM
+785 Main Street,24-205392 NO,Schedule A Order,08/09/2024 12:00:00 AM
+361 Redwood Avenue,24-205506 NO,Schedule A Order,08/09/2024 12:00:00 AM
+361 Redwood Avenue,24-205513 NO,Schedule B Order,08/09/2024 12:00:00 AM
+265 Larsen Avenue,24-206538 NO,Schedule B Order,08/12/2024 12:00:00 AM
+265 Larsen Avenue,24-206539 NO,Schedule A Order,08/12/2024 12:00:00 AM
+265 Larsen Avenue,24-206540 NO,Schedule A Order,08/12/2024 12:00:00 AM
+239 Simcoe Street,24-206696 NO,Schedule A Order,08/13/2024 12:00:00 AM
+411 Bowman Avenue,24-207067 NO,Schedule A Order,08/13/2024 12:00:00 AM
+101 Paul Boulevard,24-207566 NO,Schedule A Order,08/14/2024 12:00:00 AM
+537 Alfred Avenue,24-209084 NO,Schedule B Order,08/16/2024 12:00:00 AM
+120 Moore Avenue,24-209110 NO,Schedule A Order,08/16/2024 12:00:00 AM
+399 Nairn Avenue,24-209093 NO,Schedule B Order,08/16/2024 12:00:00 AM
+43 Briarwood Road,24-209156 NO,Schedule A Order,08/16/2024 12:00:00 AM
+350 Home Street,24-209711 NO,Schedule A Order,08/19/2024 12:00:00 AM
+35 Norberry Drive,24-209979 NO,Schedule B Order,08/19/2024 12:00:00 AM
+549 Selkirk Avenue,24-210436 NO,Schedule A Order,08/20/2024 12:00:00 AM
+329 Burrows Avenue,24-210381 NO,Schedule A Order,08/20/2024 12:00:00 AM
+277 Ashland Avenue,24-210563 NO,Schedule A Order,08/20/2024 12:00:00 AM
+66 McDowell Drive,24-210575 NO,Schedule A Order,08/20/2024 12:00:00 AM
+66 McDowell Drive,24-210576 NO,Schedule A Order,08/20/2024 12:00:00 AM
+270 Powers Street,24-210704 NO,Schedule A Order,08/20/2024 12:00:00 AM
+427 Anderson Avenue,24-210681 NO,Schedule B Order,08/20/2024 12:00:00 AM
+274 Powers Street,24-210747 NO,Schedule A Order,08/20/2024 12:00:00 AM
+274 Powers Street,24-210748 NO,Schedule A Order,08/20/2024 12:00:00 AM
+675 Manitoba Avenue,24-211131 NO,Schedule A Order,08/21/2024 12:00:00 AM
+692 Linden Avenue,24-211965 NO,Schedule A Order,08/22/2024 12:00:00 AM
+367 Stella Avenue,24-211968 NO,Schedule A Order,08/22/2024 12:00:00 AM
+367 Stella Avenue,24-211969 NO,Schedule A Order,08/22/2024 12:00:00 AM
+316 Boyd Avenue,24-212081 NO,Schedule B Order,08/22/2024 12:00:00 AM
+1075 Strathcona Street,24-212159 NO,Schedule B Order,08/22/2024 12:00:00 AM
+686 Logan Avenue,24-212889 NO,Schedule A Order,08/23/2024 12:00:00 AM
+1454 Roy Avenue,24-213607 NO,Schedule B Order,08/26/2024 12:00:00 AM
+38 Tranquil Bay,24-216792 NO,Schedule A Order,09/03/2024 12:00:00 AM
+83 Rutgers Bay,24-216808 NO,Schedule A Order,09/03/2024 12:00:00 AM
+270 Morley Avenue,24-217246 NO,Schedule B Order,09/03/2024 12:00:00 AM
+270 Morley Avenue,24-217247 NO,Schedule A Order,09/03/2024 12:00:00 AM
+1345 Storie Road,24-218387 NO,Schedule B Order,09/05/2024 12:00:00 AM
+686 Logan Avenue,24-219118 NO,Schedule B Order,09/06/2024 12:00:00 AM
+199 Marion Street,24-219468 NO,Schedule B Order,09/06/2024 12:00:00 AM
+199 Marion Street,24-219469 NO,Schedule B Order,09/06/2024 12:00:00 AM
+355 Selkirk Avenue,24-219416 NO,Schedule B Order,09/06/2024 12:00:00 AM
+498 Atlantic Avenue,24-219512 NO,Schedule B Order,09/06/2024 12:00:00 AM
+498 Atlantic Avenue,24-219513 NO,Schedule B Order,09/06/2024 12:00:00 AM
+135 Grove Street,24-219537 NO,Schedule B Order,09/06/2024 12:00:00 AM
+679 Ellice Avenue,24-220971 NO,Schedule A Order,09/10/2024 12:00:00 AM
+491 Burrows Avenue,24-221157 NO,Schedule A Order,09/10/2024 12:00:00 AM
+250 Queenston Street,24-221735 NO,Schedule A Order,09/11/2024 12:00:00 AM
+772 Stella Avenue,24-221975 NO,Schedule A Order,09/12/2024 12:00:00 AM
+596 Aberdeen Avenue,24-222351 NO,Schedule B Order,09/12/2024 12:00:00 AM
+596 Aberdeen Avenue,24-222352 NO,Schedule A Order,09/12/2024 12:00:00 AM
+311 Bannerman Avenue,24-222372 NO,Schedule B Order,09/12/2024 12:00:00 AM
+277 Ashland Avenue,24-223009 NO,Schedule A Order,09/13/2024 12:00:00 AM
+449 Polson Avenue,24-224029 NO,Schedule A Order,09/16/2024 12:00:00 AM
+79 Bank Avenue,24-224428 NO,Schedule A Order,09/17/2024 12:00:00 AM
+375 Magnus Avenue,24-224636 NO,Schedule A Order,09/17/2024 12:00:00 AM
+201 Marion Street,24-225149 NO,Schedule A Order,09/18/2024 12:00:00 AM
+654 Aberdeen Avenue,24-225236 NO,Schedule A Order,09/18/2024 12:00:00 AM
+665 Mountain Avenue,24-225238 NO,Schedule A Order,09/18/2024 12:00:00 AM
+665 Mountain Avenue,24-225239 NO,Schedule A Order,09/18/2024 12:00:00 AM
+693 Victor Street,24-225763 NO,Schedule B Order,09/19/2024 12:00:00 AM
+257 Lulu Street,24-225902 NO,Schedule B Order,09/19/2024 12:00:00 AM
+586 St Catherine Street,24-227457 NO,Schedule A Order,09/23/2024 12:00:00 AM
+1504 Logan Avenue,24-227973 NO,Schedule B Order,09/24/2024 12:00:00 AM
+417 Maryland Street,24-228182 NO,Schedule B Order,09/24/2024 12:00:00 AM
+1060 Strathcona Street,24-228816 NO,Schedule A Order,09/25/2024 12:00:00 AM
+480 Young Street,24-229284 NO,Schedule A Order,09/26/2024 12:00:00 AM
+879 Isbister Street,24-231488 NO,Schedule A Order,10/02/2024 12:00:00 AM
+155 Stephens Street,24-231586 NO,Schedule B Order,10/02/2024 12:00:00 AM
+511 Bannatyne Avenue,24-231785 NO,Schedule B Order,10/02/2024 12:00:00 AM
+631 Ingersoll Street,24-232441 NO,Schedule A Order,10/03/2024 12:00:00 AM
+314 McGee Street,24-232575 NO,Schedule A Order,10/04/2024 12:00:00 AM
+314 McGee Street,24-232574 NO,Schedule B Order,10/04/2024 12:00:00 AM
+1463 Winnipeg Avenue W,24-232774 NO,Schedule A Order,10/04/2024 12:00:00 AM
+360 Queenston Street,24-232799 NO,Schedule A Order,10/04/2024 12:00:00 AM
+1454 Roy Avenue,24-232934 NO,Schedule A Order,10/04/2024 12:00:00 AM
+169 Worthington Avenue,24-233477 NO,Schedule A Order,10/07/2024 12:00:00 AM
+169 Worthington Avenue,24-233481 NO,Schedule A Order,10/07/2024 12:00:00 AM
+796 McCalman Avenue,24-233706 NO,Schedule A Order,10/07/2024 12:00:00 AM
+10 Cannes Crescent,24-233722 NO,Schedule A Order,10/07/2024 12:00:00 AM
+72 Cobourg Avenue,24-245335 NO,Schedule B Order,10/11/2024 12:00:00 AM
+74 Cobourg Avenue,24-247898 NO,Schedule B Order,10/11/2024 12:00:00 AM
+872 Elmhurst Road,24-247987 NO,Schedule A Order,10/11/2024 12:00:00 AM
+872 Elmhurst Road,24-247988 NO,Schedule A Order,10/11/2024 12:00:00 AM
+520 William Avenue,24-252251 NO,Schedule A Order,10/15/2024 12:00:00 AM
+549 Bowman Avenue,24-252429 NO,Schedule B Order,10/15/2024 12:00:00 AM
+484 Agnes Street,24-252480 NO,Schedule A Order,10/15/2024 12:00:00 AM
+6024 Roblin Boulevard,24-253050 NO,Schedule B Order,10/16/2024 12:00:00 AM
+584 Stella Avenue,24-252996 NO,Schedule A Order,10/16/2024 12:00:00 AM
+774 Toronto Street,24-253712 NO,Schedule A Order,10/17/2024 12:00:00 AM
+774 Toronto Street,24-253740 NO,Schedule B Order,10/17/2024 12:00:00 AM
+76 Cobourg Avenue,24-256644 NO,Schedule B Order,10/24/2024 12:00:00 AM
+388 Portage Avenue,24-257204 NO,Schedule A Order,10/25/2024 12:00:00 AM
+97 Haig Avenue,24-257256 NO,Schedule B Order,10/25/2024 12:00:00 AM
+155 East Gate,24-257188 NO,Schedule A Order,10/25/2024 12:00:00 AM
+316 Boyd Avenue,24-257545 NO,Schedule A Order,10/25/2024 12:00:00 AM
+316 Boyd Avenue,24-257546 NO,Schedule A Order,10/25/2024 12:00:00 AM
+74 Cobourg Avenue,24-258174 NO,Schedule A Order,10/28/2024 12:00:00 AM
+76 Cobourg Avenue,24-258217 NO,Schedule A Order,10/28/2024 12:00:00 AM
+1007 McPhillips Street,24-258926 NO,Schedule B Order,10/29/2024 12:00:00 AM
+685 Beverley Street,24-258948 NO,Schedule B Order,10/29/2024 12:00:00 AM
+380 Burrows Avenue,24-258971 NO,Schedule A Order,10/29/2024 12:00:00 AM
+475 Toronto Street,24-259079 NO,Schedule B Order,10/29/2024 12:00:00 AM
+491 Burrows Avenue,24-259200 NO,Schedule B Order,10/29/2024 12:00:00 AM
+491 Burrows Avenue,24-259201 NO,Schedule A Order,10/29/2024 12:00:00 AM
