@@ -46,7 +46,7 @@ const Header = ({ onLogoClick }) => {
 
             {/* Title */}
             <h1 className="text-white text-2xl font-semibold absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2">
-                Vacant Buildings Tracker Hub
+            Vacant to Vibrant
             </h1>
 
             {/* Menu Button and Dropdown */}
