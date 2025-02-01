@@ -17,7 +17,7 @@ const createCustomIcon = () => {
 // Function to fetch data from Spring Boot backend
 const fetchLocations = async () => {
     try {
-        const response = await fetch('http://35.212.165.13:8080/vacantbuildings/addresses');
+        const response = await fetch('http://127.0.0.1:8080/vacantbuildings/addresses');
         const addresses = await response.json();
         // Append location details to each address
         const formattedAddresses = addresses.map(address => 
